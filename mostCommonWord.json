@@ -1,0 +1,4006 @@
+[
+    {
+        "word": "the",
+        "meaning": " “The sky is blue.” "
+    },
+    {
+        "word": "be",
+        "meaning": "be – “Will you be my friend?”"
+    },
+    {
+        "word": "and",
+        "meaning": "and – “You and I will always be friends.”"
+    },
+    {
+        "word": "of",
+        "meaning": "of – “Today is the first of November.”"
+    },
+    {
+        "word": "a",
+        "meaning": "a – “I saw a bear today.”"
+    },
+    {
+        "word": "in",
+        "meaning": "in – “She is in her room.”"
+    },
+    {
+        "word": "to",
+        "meaning": "to – “Let’s go to the park.”"
+    },
+    {
+        "word": "have",
+        "meaning": "have – “I have a few questions.”"
+    },
+    {
+        "word": "too",
+        "meaning": "too – “I like her too.”"
+    },
+    {
+        "word": "it",
+        "meaning": "it – “It is sunny outside.”"
+    },
+    {
+        "word": "I",
+        "meaning": "I – “I really like it here.”"
+    },
+    {
+        "word": "that",
+        "meaning": "that – “That door is open.”"
+    },
+    {
+        "word": "for",
+        "meaning": "for – “This letter is for you.”"
+    },
+    {
+        "word": "you",
+        "meaning": "you – “You are really nice.”"
+    },
+    {
+        "word": "he",
+        "meaning": "he – “He is my brother.”"
+    },
+    {
+        "word": "with",
+        "meaning": "with – “I want to go with you.”"
+    },
+    {
+        "word": "on",
+        "meaning": "on – “I watch movies on my iPad.”"
+    },
+    {
+        "word": "do",
+        "meaning": "do – “What will you do now?”"
+    },
+    {
+        "word": "say",
+        "meaning": "say – “Can I say something?”"
+    },
+    {
+        "word": "this",
+        "meaning": "this – “This is my favorite cookie.”"
+    },
+    {
+        "word": "they",
+        "meaning": "they – “They are here!”"
+    },
+    {
+        "word": "at",
+        "meaning": "at – “Can you pick me up at the mall?”"
+    },
+    {
+        "word": "but",
+        "meaning": "but – “I’m sorry but she’s away.”"
+    },
+    {
+        "word": "we",
+        "meaning": "we – “We are going to watch a movie.”"
+    },
+    {
+        "word": "his",
+        "meaning": "his – “This is his box.”"
+    },
+    {
+        "word": "from",
+        "meaning": "from – “This card came from my cousin.”"
+    },
+    {
+        "word": "that",
+        "meaning": "that – “That’s a really cool trick!”"
+    },
+    {
+        "word": "not",
+        "meaning": "not – “That’s not what I want.”"
+    },
+    {
+        "word": "can’t",
+        "meaning": "can’t – “I can’t open it.”"
+    },
+    {
+        "word": "won’t",
+        "meaning": "won’t – “I won’t open it.”"
+    },
+    {
+        "word": "by",
+        "meaning": "by – “Will you come by and see me?”"
+    },
+    {
+        "word": "she",
+        "meaning": "she – “She is very happy.”"
+    },
+    {
+        "word": "or",
+        "meaning": "or – “Do you like blue or yellow?”"
+    },
+    {
+        "word": "as",
+        "meaning": "as – “Her role as an English teacher is very important.”"
+    },
+    {
+        "word": "what",
+        "meaning": "what – “What are you thinking of?”"
+    },
+    {
+        "word": "go",
+        "meaning": "go – “I want to go there.”"
+    },
+    {
+        "word": "their",
+        "meaning": "their – “This is their house.”"
+    },
+    {
+        "word": "can",
+        "meaning": "can – “What can I do for you?”"
+    },
+    {
+        "word": "who",
+        "meaning": "who – “Who can help me?”"
+    },
+    {
+        "word": "get",
+        "meaning": "get – “Can you get me my eyeglasses?”"
+    },
+    {
+        "word": "if",
+        "meaning": "if – “What if I fail?”"
+    },
+    {
+        "word": "would",
+        "meaning": "would – “Would you help me out?”"
+    },
+    {
+        "word": "her",
+        "meaning": "her – “I have her book.”"
+    },
+    {
+        "word": "all",
+        "meaning": "all – “All my favorite books are on this shelf.”"
+    },
+    {
+        "word": "my",
+        "meaning": "my – “My mom is coming to visit.”"
+    },
+    {
+        "word": "make",
+        "meaning": "make – “Can we make our projects together?”"
+    },
+    {
+        "word": "about",
+        "meaning": "about – “What is this movie about?”"
+    },
+    {
+        "word": "know",
+        "meaning": "know – “Do you know where this place is?”"
+    },
+    {
+        "word": "will",
+        "meaning": "will – “I will help you find that place.”"
+    },
+    {
+        "word": "as",
+        "meaning": "as – “As soon as she’s here, I’ll talk to her.”"
+    },
+    {
+        "word": "up",
+        "meaning": "up – “I live up in the mountains.”"
+    },
+    {
+        "word": "one",
+        "meaning": "one – “She is one of my English teachers.”"
+    },
+    {
+        "word": "time",
+        "meaning": "time – “There was a time I liked to play golf.”"
+    },
+    {
+        "word": "there",
+        "meaning": "there – “There are so many things I want to learn.”"
+    },
+    {
+        "word": "year",
+        "meaning": "year – “This is the year I’m finally going to learn English.”"
+    },
+    {
+        "word": "so",
+        "meaning": "so – “I am so sorry.”"
+    },
+    {
+        "word": "think",
+        "meaning": "think – “I think I need to lie down.”"
+    },
+    {
+        "word": "when",
+        "meaning": "when – “When will I see you again?”"
+    },
+    {
+        "word": "which",
+        "meaning": "which – “Which of these slippers are yours?”"
+    },
+    {
+        "word": "them",
+        "meaning": "them – “Please give this to them.”"
+    },
+    {
+        "word": "some",
+        "meaning": "some – “Please give them some of the apples I brought home.”"
+    },
+    {
+        "word": "me",
+        "meaning": "me – “Can you give me some apples?”"
+    },
+    {
+        "word": "people",
+        "meaning": "people – “There are so many people at the mall today.”"
+    },
+    {
+        "word": "take",
+        "meaning": "take – “Please take home some of these apples”"
+    },
+    {
+        "word": "out",
+        "meaning": "out – “Please throw the trash out.”"
+    },
+    {
+        "word": "into",
+        "meaning": "into – “My puppy ran into the woods.”"
+    },
+    {
+        "word": "just",
+        "meaning": "just – “Just close your eyes.”"
+    },
+    {
+        "word": "see",
+        "meaning": "see – “Did you see that?”"
+    },
+    {
+        "word": "him",
+        "meaning": "him – “I heard him singing earlier.”"
+    },
+    {
+        "word": "your",
+        "meaning": "your – “Your mom is here.”"
+    },
+    {
+        "word": "come",
+        "meaning": "come – “Can your mom and dad come to the party?”"
+    },
+    {
+        "word": "could",
+        "meaning": "could – “Could you help me with my project?”"
+    },
+    {
+        "word": "now",
+        "meaning": "now – “I want to watch this now.”"
+    },
+    {
+        "word": "than",
+        "meaning": "than – “I like this cake better than the other one you showed me.”"
+    },
+    {
+        "word": "like",
+        "meaning": "like – “I like this bag better than the other one you showed me.”"
+    },
+    {
+        "word": "other",
+        "meaning": "other – “I like these shoes better than the other ones you showed me.”"
+    },
+    {
+        "word": "how",
+        "meaning": "how – “How do I turn this on?”"
+    },
+    {
+        "word": "then",
+        "meaning": "then – “We had breakfast and then we went to church.”"
+    },
+    {
+        "word": "its",
+        "meaning": "its – “I need to read its manual.”"
+    },
+    {
+        "word": "our",
+        "meaning": "our – “This is our home now.”"
+    },
+    {
+        "word": "two",
+        "meaning": "two – “Two cheeseburgers, please.”"
+    },
+    {
+        "word": "more",
+        "meaning": "more – “Can I have some more milk shake?”"
+    },
+    {
+        "word": "these",
+        "meaning": "these – “Do you like these ribbons?”"
+    },
+    {
+        "word": "want",
+        "meaning": "want – “Do you want these ribbons?”"
+    },
+    {
+        "word": "way",
+        "meaning": "way – “Can you look this way?”"
+    },
+    {
+        "word": "look",
+        "meaning": "look – “Please look this way.”"
+    },
+    {
+        "word": "first",
+        "meaning": "first – “She was my very first teacher.”"
+    },
+    {
+        "word": "also",
+        "meaning": "also – “She was also my best friend.”"
+    },
+    {
+        "word": "new",
+        "meaning": "new – “I have new shoes.”"
+    },
+    {
+        "word": "because",
+        "meaning": "because – “I am crying because I’m sad.”"
+    },
+    {
+        "word": "day",
+        "meaning": "day – “Today is National Friendship day.”"
+    },
+    {
+        "word": "more",
+        "meaning": "more – “I have more stickers at home.”"
+    },
+    {
+        "word": "use",
+        "meaning": "use – “How do I use this?”"
+    },
+    {
+        "word": "no",
+        "meaning": "no – “There’s no electricity now.”"
+    },
+    {
+        "word": "man",
+        "meaning": "man – “There’s a man outside looking for you.”"
+    },
+    {
+        "word": "find",
+        "meaning": "find – “Where can I find rare furniture?”"
+    },
+    {
+        "word": "here",
+        "meaning": "here – “My mom is here.”"
+    },
+    {
+        "word": "thing",
+        "meaning": "thing – “One thing led to another.”"
+    },
+    {
+        "word": "give",
+        "meaning": "give – “Give her these pearls.”"
+    },
+    {
+        "word": "many",
+        "meaning": "many – “We shared many dreams together.”"
+    },
+    {
+        "word": "well",
+        "meaning": "well – “You know me so well.”"
+    },
+    {
+        "word": "only",
+        "meaning": "only – “You are my only friend here.”"
+    },
+    {
+        "word": "those",
+        "meaning": "those – “Those boots belong to my friend.”"
+    },
+    {
+        "word": "tell",
+        "meaning": "tell – “Can you tell me which way to go?”"
+    },
+    {
+        "word": "one",
+        "meaning": "one – “She’s the one he’s been waiting for.”"
+    },
+    {
+        "word": "very",
+        "meaning": "very – “I’m very upset right now.”"
+    },
+    {
+        "word": "her",
+        "meaning": "her – “Her grandmother is sick.”"
+    },
+    {
+        "word": "even",
+        "meaning": "even – “She can’t even stand on her own.”"
+    },
+    {
+        "word": "back",
+        "meaning": "back – “I’ll be right back.”"
+    },
+    {
+        "word": "any –",
+        "meaning": "any – “Have you had any luck on your research?”"
+    },
+    {
+        "word": "good",
+        "meaning": "good – “You’re a good person.”"
+    },
+    {
+        "word": "woman",
+        "meaning": "woman – “That woman looks so polished.”"
+    },
+    {
+        "word": "through",
+        "meaning": "through – “Your faith will see you through tough times.”"
+    },
+    {
+        "word": "us",
+        "meaning": "us – “Do you want to go with us?”"
+    },
+    {
+        "word": "life",
+        "meaning": "life – “This is the best day of my life.”"
+    },
+    {
+        "word": "child",
+        "meaning": "child – “I just saw a child cross the street by herself.”"
+    },
+    {
+        "word": "there",
+        "meaning": "there – “Did you go there?”"
+    },
+    {
+        "word": "work",
+        "meaning": "work – “I have to go to work.”"
+    },
+    {
+        "word": "down",
+        "meaning": "down – “Let’s go down.”"
+    },
+    {
+        "word": "may",
+        "meaning": "may – “You may take your seats.”"
+    },
+    {
+        "word": "after",
+        "meaning": "after – “Let’s have dinner after work.”"
+    },
+    {
+        "word": "should",
+        "meaning": "should – “Should I buy this dress?”"
+    },
+    {
+        "word": "call",
+        "meaning": "call – “Call me when you get home, okay?”"
+    },
+    {
+        "word": "world",
+        "meaning": "world – “I want to travel and see the world.”"
+    },
+    {
+        "word": "over",
+        "meaning": "over – “I can’t wait for this day to be over.”"
+    },
+    {
+        "word": "school",
+        "meaning": "school – “My cousin goes to school here.”"
+    },
+    {
+        "word": "still",
+        "meaning": "still – “I still think you should go.”"
+    },
+    {
+        "word": "try",
+        "meaning": "try – “Can you try to be nicer to him?”"
+    },
+    {
+        "word": "in",
+        "meaning": "in – “What’s in that box?”"
+    },
+    {
+        "word": "as",
+        "meaning": "as – “As soon as I get home, I’m going to start watching that series.”"
+    },
+    {
+        "word": "last ",
+        "meaning": "last – “This is my last slice of cake, I promise!”"
+    },
+    {
+        "word": "ask",
+        "meaning": "ask – “Can you ask the waiter to bring us some wine?”"
+    },
+    {
+        "word": "need",
+        "meaning": "need – “I need some wine tonight!”"
+    },
+    {
+        "word": "too",
+        "meaning": "too – “I need some wine, too!”"
+    },
+    {
+        "word": "feel",
+        "meaning": "feel – “I feel so tired, I just need to relax and unwind.”"
+    },
+    {
+        "word": "three ",
+        "meaning": "three – “I have three sisters.”"
+    },
+    {
+        "word": "when",
+        "meaning": "when – “When was the last time you saw them?”"
+    },
+    {
+        "word": "state",
+        "meaning": "state – “Check out the state of that shed, it’s falling apart.”"
+    },
+    {
+        "word": "never",
+        "meaning": "never – “I’m never going to drink wine again.”"
+    },
+    {
+        "word": "become",
+        "meaning": "become – “Over the years we’ve become really close.”"
+    },
+    {
+        "word": "between",
+        "meaning": "between – “This is just between you and me.”"
+    },
+    {
+        "word": "high",
+        "meaning": "high – “Give me a high five!”"
+    },
+    {
+        "word": "really",
+        "meaning": "really – “I really like your painting!”"
+    },
+    {
+        "word": "something",
+        "meaning": "something – “I have something for you.”"
+    },
+    {
+        "word": "most",
+        "meaning": "most – “She’s the most beautiful girl I’ve ever seen.”"
+    },
+    {
+        "word": "another",
+        "meaning": "another – “I’ll have another glass of wine, please.”"
+    },
+    {
+        "word": "much",
+        "meaning": "much – “I love you guys so much.”"
+    },
+    {
+        "word": "family",
+        "meaning": "family – “You are like family to me.”"
+    },
+    {
+        "word": "own",
+        "meaning": "own – “I want to get my own place.”"
+    },
+    {
+        "word": "out",
+        "meaning": "out – “Get out of my room.”"
+    },
+    {
+        "word": "leave",
+        "meaning": "leave – “I want you to leave.”"
+    },
+    {
+        "word": "put",
+        "meaning": "put – “Please put down that book and listen to me.”"
+    },
+    {
+        "word": "old",
+        "meaning": "old – “I feel so old!”"
+    },
+    {
+        "word": "while",
+        "meaning": "while – “I can wait for you here while you shop.”"
+    },
+    {
+        "word": "mean",
+        "meaning": "mean – “I didn’t mean to sound so angry.”"
+    },
+    {
+        "word": "on",
+        "meaning": "on – “Can you turn on the lights?”"
+    },
+    {
+        "word": "keep",
+        "meaning": "keep – “Can we keep the lights on tonight?”"
+    },
+    {
+        "word": "student",
+        "meaning": "student – “I’ve always been a diligent student.”"
+    },
+    {
+        "word": "why",
+        "meaning": "why – “This is why I don’t go out anymore.”"
+    },
+    {
+        "word": "let",
+        "meaning": "let – “Why won’t you let him know how you feel?”"
+    },
+    {
+        "word": "great",
+        "meaning": "great – “This ice cream place is great for families with kids!”"
+    },
+    {
+        "word": "same",
+        "meaning": "same – “Hey, we’re wearing the same shirt!”"
+    },
+    {
+        "word": "big",
+        "meaning": "big – “I have this big crush on Brad Pitt.”"
+    },
+    {
+        "word": "group",
+        "meaning": "group – “The group sitting across our table is so noisy.”"
+    },
+    {
+        "word": "begin",
+        "meaning": "begin – “Where do I begin with this huge project?”"
+    },
+    {
+        "word": "seem",
+        "meaning": "seem – “She may seem quiet, but she’s really outgoing once you get to know her.”"
+    },
+    {
+        "word": "country",
+        "meaning": "country – “Japan is such a beautiful country!”"
+    },
+    {
+        "word": "help",
+        "meaning": "help – “I need help with my Math homework.”"
+    },
+    {
+        "word": "talk",
+        "meaning": "talk – “Can we talk in private?”"
+    },
+    {
+        "word": "where",
+        "meaning": "where – “Where were you last night?”"
+    },
+    {
+        "word": "turn",
+        "meaning": "turn – “If only I could turn back time.”"
+    },
+    {
+        "word": "problem",
+        "meaning": "problem – “The problem is we think we have plenty of time.”"
+    },
+    {
+        "word": "every",
+        "meaning": "every – “Every person has his own big goal to fulfill.”"
+    },
+    {
+        "word": "start",
+        "meaning": "start – “This is a great to start to learn the English language.”"
+    },
+    {
+        "word": "hand",
+        "meaning": "hand – “Don’t let go of my hand.”"
+    },
+    {
+        "word": "might",
+        "meaning": "might – “This might actually work.”"
+    },
+    {
+        "word": "American",
+        "meaning": "American – “The American culture is so dynamic.”"
+    },
+    {
+        "word": "show",
+        "meaning": "show – “Can you show me how to use this vacuum cleaner?”"
+    },
+    {
+        "word": "part",
+        "meaning": "part – “This is my favorite part of the movie!”"
+    },
+    {
+        "word": "about",
+        "meaning": "about – “What is the story about?”"
+    },
+    {
+        "word": "against",
+        "meaning": "against – “I am so against domestic abuse!”"
+    },
+    {
+        "word": "place",
+        "meaning": "place – “This place is wonderful!”"
+    },
+    {
+        "word": "over",
+        "meaning": "over – “She kept saying this over and over again.”"
+    },
+    {
+        "word": "such",
+        "meaning": "such – “He is such an annoying person.”"
+    },
+    {
+        "word": "again",
+        "meaning": "again – “Can we play that game again?”"
+    },
+    {
+        "word": "few",
+        "meaning": "few – “Just a few more errands and I’m done!”"
+    },
+    {
+        "word": "case",
+        "meaning": "case – “What an interesting case you are working on now!”"
+    },
+    {
+        "word": "most",
+        "meaning": "most – “That’s the most interesting story I’ve ever heard.”"
+    },
+    {
+        "word": "week",
+        "meaning": "week – “I had a rough week.”"
+    },
+    {
+        "word": "company",
+        "meaning": "company – “Will you keep me company?”"
+    },
+    {
+        "word": "where",
+        "meaning": "where – “Where are we going?”"
+    },
+    {
+        "word": "system",
+        "meaning": "system – “What’s wrong with the airport’s system?”"
+    },
+    {
+        "word": "each",
+        "meaning": "each – “Can you give each of them an apple?”"
+    },
+    {
+        "word": "right",
+        "meaning": "right – “I’m right this time.”"
+    },
+    {
+        "word": "program",
+        "meaning": "program – “This community program for teens is really helpful.”"
+    },
+    {
+        "word": "hear",
+        "meaning": "hear – “Did you hear that?”"
+    },
+    {
+        "word": "so",
+        "meaning": "so – “I’m so sleepy.”"
+    },
+    {
+        "word": "question",
+        "meaning": "question – “I have a question for you.”"
+    },
+    {
+        "word": "during",
+        "meaning": "during – “During the session, I saw him fall asleep.”"
+    },
+    {
+        "word": "work",
+        "meaning": "work – “I have to work this weekend.”"
+    },
+    {
+        "word": "play",
+        "meaning": "play – “We can play soccer next weekend instead.”"
+    },
+    {
+        "word": "government",
+        "meaning": "government – “I hope the government does something about the poverty in this country.”"
+    },
+    {
+        "word": "run",
+        "meaning": "run – “If you see a bear here, run for your life.”"
+    },
+    {
+        "word": "small",
+        "meaning": "small – “I have a small favor to ask you.”"
+    },
+    {
+        "word": "number",
+        "meaning": "number – “I have a number of favors to ask you.”"
+    },
+    {
+        "word": "off",
+        "meaning": "off – “Please turn off the television.”"
+    },
+    {
+        "word": "always",
+        "meaning": "always – “I always bring pepper spray with me.”"
+    },
+    {
+        "word": "move",
+        "meaning": "move – “Let’s move on to the next tourist spot.”"
+    },
+    {
+        "word": "like",
+        "meaning": "like – “I really like you.”"
+    },
+    {
+        "word": "night",
+        "meaning": "night – “The night is young.”"
+    },
+    {
+        "word": "live",
+        "meaning": "live – “I’m going to live like there’s no tomorrow.”"
+    },
+    {
+        "word": "Mr.",
+        "meaning": "Mr. – “Mr. Morris is here.”"
+    },
+    {
+        "word": "point",
+        "meaning": "point – “You have a point.”"
+    },
+    {
+        "word": "believe ",
+        "meaning": "believe – “I believe in you.”"
+    },
+    {
+        "word": "hold",
+        "meaning": "hold – “Just hold my hand.”"
+    },
+    {
+        "word": "today",
+        "meaning": "today – “I’m going to see you today.”"
+    },
+    {
+        "word": "bring",
+        "meaning": "bring – “Please bring a pen.”"
+    },
+    {
+        "word": "happen ",
+        "meaning": "happen – “What will happen if you don’t submit your report on time?”"
+    },
+    {
+        "word": "next",
+        "meaning": "next – “This is the next best thing.”"
+    },
+    {
+        "word": "without",
+        "meaning": "without – “I can’t live without my phone.”"
+    },
+    {
+        "word": "before",
+        "meaning": "before – “Before I go to bed I always wash my face.”"
+    },
+    {
+        "word": "large",
+        "meaning": "large – “There’s a large amount of data online about that topic.”"
+    },
+    {
+        "word": "all",
+        "meaning": "all – “That’s all I know about Dinosaurs.”"
+    },
+    {
+        "word": "million",
+        "meaning": "million – “I have a million questions about this book.”"
+    },
+    {
+        "word": "must",
+        "meaning": "must – “We must watch this movie together.”"
+    },
+    {
+        "word": "home",
+        "meaning": "home – “Can we go home now?”"
+    },
+    {
+        "word": "under",
+        "meaning": "under – “I hid it under my bed.”"
+    },
+    {
+        "word": "water",
+        "meaning": "water – “I filled the tub with water.”"
+    },
+    {
+        "word": "room",
+        "meaning": "room – “His room is at the end of the corridor.”"
+    },
+    {
+        "word": "write",
+        "meaning": "write – “Can you write me a prescription for this?”"
+    },
+    {
+        "word": "mother",
+        "meaning": "mother – “His mother is a very lovely woman.”"
+    },
+    {
+        "word": "area",
+        "meaning": "area – “This area of this house needs to be fixed.”"
+    },
+    {
+        "word": "national",
+        "meaning": "national – “That virus has become a national concern.”"
+    },
+    {
+        "word": "money",
+        "meaning": "money – “She needs money to buy her medicine.”"
+    },
+    {
+        "word": "story",
+        "meaning": "story – “She shared her story to the media.”"
+    },
+    {
+        "word": "young",
+        "meaning": "young – “She is so young and so hopeful.”"
+    },
+    {
+        "word": "fact",
+        "meaning": "fact – “It’s a fact: shopping can improve your mood.”"
+    },
+    {
+        "word": "month",
+        "meaning": "month – “It’s that time of the month!”"
+    },
+    {
+        "word": "different",
+        "meaning": "different – “Just because she’s different, it doesn’t mean she’s bad.”"
+    },
+    {
+        "word": "lot",
+        "meaning": "lot – “You have a lot of explaining to do.”"
+    },
+    {
+        "word": "right",
+        "meaning": "right – “Turn right when you reach the corner.”"
+    },
+    {
+        "word": "study",
+        "meaning": "study – “Let’s study our English lessons together."
+    },
+    {
+        "word": "book",
+        "meaning": "book – “Can I borrow your English book?”"
+    },
+    {
+        "word": "eye",
+        "meaning": "eye – “She has the pink eye.”"
+    },
+    {
+        "word": "job",
+        "meaning": "job – “I love my job.”"
+    },
+    {
+        "word": "word",
+        "meaning": "word – “Describe yourself in one word.”"
+    },
+    {
+        "word": "though",
+        "meaning": "though – “Though you are angry now, I’m sure you will forget about this later.”"
+    },
+    {
+        "word": "business",
+        "meaning": "business – “His business is thriving.”"
+    },
+    {
+        "word": "issue",
+        "meaning": "issue – “This is not an issue for me.”"
+    },
+    {
+        "word": "side",
+        "meaning": "side – “Whose side are you on, anyway?”"
+    },
+    {
+        "word": "kind",
+        "meaning": "kind – “Always be kind, even to strangers.”"
+    },
+    {
+        "word": "four",
+        "meaning": "four – “There are four seasons in a year.”"
+    },
+    {
+        "word": "head",
+        "meaning": "head – “Let’s head back, it’s freezing out here.”"
+    },
+    {
+        "word": "far",
+        "meaning": "far – “We’ve gone too far and now we’re lost.”"
+    },
+    {
+        "word": "black",
+        "meaning": "black – “She has long, black hair.”"
+    },
+    {
+        "word": "long",
+        "meaning": "long – “She has long, brown hair.”"
+    },
+    {
+        "word": "both",
+        "meaning": "both – “They both love chocolate ice cream.”"
+    },
+    {
+        "word": "little",
+        "meaning": "little – “I have two little boys with me now.”"
+    },
+    {
+        "word": "house",
+        "meaning": "house – “The house is so quiet without you.”"
+    },
+    {
+        "word": "yes",
+        "meaning": "yes – “I hope you say yes.”"
+    },
+    {
+        "word": "after",
+        "meaning": "after – “After all this time, he has finally learned to love.”"
+    },
+    {
+        "word": "since",
+        "meaning": "since – “Ever since his mom died, he has been cranky and angry at the world.”"
+    },
+    {
+        "word": "long",
+        "meaning": "long – “That was such a long time ago.”"
+    },
+    {
+        "word": "provide",
+        "meaning": "provide – “Please provide me with a list of your services.”"
+    },
+    {
+        "word": "service",
+        "meaning": "service – “Do you have a specific dental service to treat this?”"
+    },
+    {
+        "word": "around",
+        "meaning": "around – “We went around the block.”"
+    },
+    {
+        "word": "friend",
+        "meaning": "friend – “You’re a good friend.”"
+    },
+    {
+        "word": "important",
+        "meaning": "important – “You’re important to me.”"
+    },
+    {
+        "word": "father",
+        "meaning": "father – “My father is so important to me.”"
+    },
+    {
+        "word": "sit",
+        "meaning": "sit – “Let’s sit outside together.”"
+    },
+    {
+        "word": "away",
+        "meaning": "away – “He’s away right now.”"
+    },
+    {
+        "word": "until",
+        "meaning": "until – “Until when will you be away?”"
+    },
+    {
+        "word": "power",
+        "meaning": "power – “With great power comes great responsibility.”"
+    },
+    {
+        "word": "hour",
+        "meaning": "hour – “I’ve been checking his temperature every hour.”"
+    },
+    {
+        "word": "game",
+        "meaning": "game – “Let’s play a game.”"
+    },
+    {
+        "word": "often",
+        "meaning": "often – “I buy from his bakery as often as I can.”"
+    },
+    {
+        "word": "yet",
+        "meaning": "yet – “He’s not yet home.”"
+    },
+    {
+        "word": "line",
+        "meaning": "line – “There’s a long line at the grocery cashier.”"
+    },
+    {
+        "word": "political",
+        "meaning": "political – “I stay away from political discussions.”"
+    },
+    {
+        "word": "end",
+        "meaning": "end – “It’s the end of an era.”"
+    },
+    {
+        "word": "among",
+        "meaning": "among – “Among all my pets, he’s my most favorite.”"
+    },
+    {
+        "word": "ever",
+        "meaning": "ever – “Have you ever tried this cake?”"
+    },
+    {
+        "word": "stand",
+        "meaning": "stand – “Can you stand still for a minute?”"
+    },
+    {
+        "word": "bad",
+        "meaning": "bad – “What you did was so bad.”"
+    },
+    {
+        "word": "lose",
+        "meaning": "lose – “I can’t lose you.”"
+    },
+    {
+        "word": "however",
+        "meaning": "however – “I want to buy this bag, however, I need to save up for it first.”"
+    },
+    {
+        "word": "member",
+        "meaning": "member – “She’s a member of the babysitter’s club.”"
+    },
+    {
+        "word": "pay",
+        "meaning": "pay – “Let’s pay for our groceries.”"
+    },
+    {
+        "word": "law",
+        "meaning": "law – “There’s a law against jay-walking.”"
+    },
+    {
+        "word": "meet",
+        "meaning": "meet – “I want you to meet my aunt.”"
+    },
+    {
+        "word": "car",
+        "meaning": "car – “Let’s go inside my car.”"
+    },
+    {
+        "word": "city",
+        "meaning": "city – “This is the city that never sleeps.”"
+    },
+    {
+        "word": "almost",
+        "meaning": "almost – “I’m almost done with my report.”"
+    },
+    {
+        "word": "include",
+        "meaning": "include – “Did you remember to include the summary in your report?”"
+    },
+    {
+        "word": "continue",
+        "meaning": "continue – “Can we continue working tomorrow?”"
+    },
+    {
+        "word": "set",
+        "meaning": "set – “Great, let me set an appointment for you.”"
+    },
+    {
+        "word": "later –",
+        "meaning": "later – “I’ll finish it later.”"
+    },
+    {
+        "word": "community",
+        "meaning": "community – “Our community is very tight knit.”"
+    },
+    {
+        "word": "much",
+        "meaning": "much – “There’s so much to learn in the English language.”"
+    },
+    {
+        "word": "name",
+        "meaning": "name – “What’s your name?”"
+    },
+    {
+        "word": "five",
+        "meaning": "five – “I can give you five reasons why you need to watch that video.”"
+    },
+    {
+        "word": "once ",
+        "meaning": "once – “I once had a puppy named Bark.”"
+    },
+    {
+        "word": "white",
+        "meaning": "white – “I love my white sneakers.”"
+    },
+    {
+        "word": "least",
+        "meaning": "least – “She’s the least productive among all the employees.”"
+    },
+    {
+        "word": "president ",
+        "meaning": "president  – “She was our class president back in high school.”"
+    },
+    {
+        "word": "learn",
+        "meaning": "learn – “I’d love to learn more about the English language.”"
+    },
+    {
+        "word": "real",
+        "meaning": "real – “What is her real name?”"
+    },
+    {
+        "word": "change",
+        "meaning": "change – “What can we change so that things will get better?”"
+    },
+    {
+        "word": "team",
+        "meaning": "team – “They hired a team to do the design of their new office.”"
+    },
+    {
+        "word": "minute",
+        "meaning": "minute – “She’s laughing every minute of every day.”"
+    },
+    {
+        "word": "best",
+        "meaning": "best – “This is the best potato salad I’ve ever tasted.”"
+    },
+    {
+        "word": "several",
+        "meaning": "several – “I have several old clothes I need to donate.”"
+    },
+    {
+        "word": "idea",
+        "meaning": "idea – “It was your idea to go to the beach, remember?”"
+    },
+    {
+        "word": "kid",
+        "meaning": "kid – “I loved that toy when I was a kid.”"
+    },
+    {
+        "word": "body",
+        "meaning": "body – “She worked out hard to achieve a toned body.”"
+    },
+    {
+        "word": "information",
+        "meaning": "information – “This is the information I need.”"
+    },
+    {
+        "word": "nothing",
+        "meaning": "nothing – “There’s nothing we can do now. “"
+    },
+    {
+        "word": "ago",
+        "meaning": "ago – “Three years ago, I visited Japan for the first time.”"
+    },
+    {
+        "word": "right",
+        "meaning": "right – “You’re right, I want to go back there.”"
+    },
+    {
+        "word": "lead",
+        "meaning": "lead – “Just lead the way and I’ll follow.”"
+    },
+    {
+        "word": "social",
+        "meaning": "social – “I feel awkward in these social gatherings.”"
+    },
+    {
+        "word": "understand",
+        "meaning": "understand – “I understand how you feel.”"
+    },
+    {
+        "word": "whether",
+        "meaning": "whether – “Whether in big groups or small groups, I always feel a little shy at first.”"
+    },
+    {
+        "word": "back",
+        "meaning": "back – “Looking back, I knew I was always an introvert.”"
+    },
+    {
+        "word": "watch",
+        "meaning": "watch – “Let’s watch the sun set on the horizon.”"
+    },
+    {
+        "word": "together",
+        "meaning": "together – “They’re together now.”"
+    },
+    {
+        "word": "follow",
+        "meaning": "follow – “I’ll follow you home.”"
+    },
+    {
+        "word": "around",
+        "meaning": "around – “You’ll always have me around.”"
+    },
+    {
+        "word": "parent",
+        "meaning": "parent – “Every parent is trying hard and doing their best.”"
+    },
+    {
+        "word": "only",
+        "meaning": "only – “You are only allowed to go out today.”"
+    },
+    {
+        "word": "stop",
+        "meaning": "stop – “Please stop that.”"
+    },
+    {
+        "word": "face",
+        "meaning": "face – “Why is your face so red?”"
+    },
+    {
+        "word": "anything",
+        "meaning": "anything – “You can ask me for anything.”"
+    },
+    {
+        "word": "create",
+        "meaning": "create – “Did you create that presentation? It was so good.”"
+    },
+    {
+        "word": "public",
+        "meaning": "public – “This is public property.”"
+    },
+    {
+        "word": "already",
+        "meaning": "already –  “I already asked him to resend his report.”"
+    },
+    {
+        "word": "speak",
+        "meaning": "speak – “Could you speak a little louder?”"
+    },
+    {
+        "word": "others",
+        "meaning": "others – “The others haven’t arrived yet.”"
+    },
+    {
+        "word": "read",
+        "meaning": "read – “I read somewhere that this house is haunted.”"
+    },
+    {
+        "word": "level",
+        "meaning": "level – “What level are you in that game?”"
+    },
+    {
+        "word": "allow",
+        "meaning": "allow – “Do you allow your kids to play outside the house?”"
+    },
+    {
+        "word": "add",
+        "meaning": "add – “Is it okay if we add a bit of sugar to the tea?”"
+    },
+    {
+        "word": "office",
+        "meaning": "office – “Welcome to my office.”"
+    },
+    {
+        "word": "spend",
+        "meaning": "spend – “How much did you spend on your last shopping spree?”"
+    },
+    {
+        "word": "door",
+        "meaning": "door – “You left the door open.”"
+    },
+    {
+        "word": "health",
+        "meaning": "health – “You must take good care of your health.”"
+    },
+    {
+        "word": "person",
+        "meaning": "person – “You are a good person.”"
+    },
+    {
+        "word": "art",
+        "meaning": "art – “This is my work of art.”"
+    },
+    {
+        "word": "sure",
+        "meaning": "sure – “Are you sure you want to do this alone?”"
+    },
+    {
+        "word": "such",
+        "meaning": "such – “You are such a brave little boy.”"
+    },
+    {
+        "word": "war",
+        "meaning": "war – “The war has finally ended.”"
+    },
+    {
+        "word": "history",
+        "meaning": "history – “She is my history professor.”"
+    },
+    {
+        "word": "party",
+        "meaning": "party – “Are you going to her party tonight?”"
+    },
+    {
+        "word": "within",
+        "meaning": "within – “We support everyone within our small community.”"
+    },
+    {
+        "word": "grow",
+        "meaning": "grow – “We want everyone to grow and thrive in their careers.”"
+    },
+    {
+        "word": "result",
+        "meaning": "result – “The result of this outreach program is amazing.”"
+    },
+    {
+        "word": "open",
+        "meaning": "open – “Are you open to teaching on weekends?”"
+    },
+    {
+        "word": "change",
+        "meaning": "change – “Where can we change her diaper?”"
+    },
+    {
+        "word": "morning",
+        "meaning": "morning – “It’s such a beautiful morning!”"
+    },
+    {
+        "word": "walk",
+        "meaning": "walk – “Come take a walk with me.”"
+    },
+    {
+        "word": "reason",
+        "meaning": "reason – “You are the reason I came home.”"
+    },
+    {
+        "word": "low",
+        "meaning": "low – “Her blood pressure has gotten really low.”"
+    },
+    {
+        "word": "win",
+        "meaning": "win – “We can win this match if we work together.”"
+    },
+    {
+        "word": "research",
+        "meaning": "research – “How is your research going?”"
+    },
+    {
+        "word": "girl ",
+        "meaning": "girl – “That girl is in my class.”"
+    },
+    {
+        "word": "guy",
+        "meaning": "guy – “I’ve seen that guy in school before.”"
+    },
+    {
+        "word": "early",
+        "meaning": "early – “I come to work so early every day.”"
+    },
+    {
+        "word": "food",
+        "meaning": "food – “Let’s buy some food, I’m hungry!”"
+    },
+    {
+        "word": "before",
+        "meaning": "before – “Can I talk to you before you go home?”"
+    },
+    {
+        "word": "moment",
+        "meaning": "moment – “The moment she walked in the room, her puppy started to jump and dance again.”"
+    },
+    {
+        "word": "himself",
+        "meaning": "himself – “He cooked this Turkey himself.”"
+    },
+    {
+        "word": "air",
+        "meaning": "air – “I am loving the cold night air here.”"
+    },
+    {
+        "word": "teacher",
+        "meaning": "teacher – “You are the best teacher ever.”"
+    },
+    {
+        "word": "force",
+        "meaning": "force – “Don’t force him to play with other kids.”"
+    },
+    {
+        "word": "offer",
+        "meaning": "offer – “Can I offer you a ride home?”"
+    },
+    {
+        "word": "enough",
+        "meaning": "enough – “Boys, that’s enough playing for today.”"
+    },
+    {
+        "word": "both",
+        "meaning": "both – “You both need to change into your sleep clothes now.”"
+    },
+    {
+        "word": "education",
+        "meaning": "education – “I just want you to get the best education.”"
+    },
+    {
+        "word": "across",
+        "meaning": "across – “Your dog ran across the park.”"
+    },
+    {
+        "word": "although",
+        "meaning": "although – “Although she felt tired, she still couldn’t sleep.”"
+    },
+    {
+        "word": "remember ",
+        "meaning": "remember – “Do you think she will still remember me after ten years?”"
+    },
+    {
+        "word": "foot",
+        "meaning": "foot – “Her foot got caught in one of the ropes.”"
+    },
+    {
+        "word": "second",
+        "meaning": "second – “This is the second time she got late this month.”"
+    },
+    {
+        "word": "boy",
+        "meaning": "boy – “There’s a boy in her class who keeps pulling her hair.”"
+    },
+    {
+        "word": "maybe",
+        "meaning": "maybe – “Maybe we can have ice cream for dessert.”"
+    },
+    {
+        "word": "toward",
+        "meaning": "toward – “He took a step toward her.”"
+    },
+    {
+        "word": "able",
+        "meaning": "able – “Will you be able to send me your report today?”"
+    },
+    {
+        "word": "age",
+        "meaning": "age – “What is the average marrying age these days?”"
+    },
+    {
+        "word": "off –",
+        "meaning": "off – “The cat ran off with the dog.”"
+    },
+    {
+        "word": "policy",
+        "meaning": "policy – “They have a generous return policy.”"
+    },
+    {
+        "word": "everything",
+        "meaning": "everything – “Everything is on sale.”"
+    },
+    {
+        "word": "love",
+        "meaning": "love – “I love what you’re wearing!”"
+    },
+    {
+        "word": "process",
+        "meaning": "process – “Wait, give me time to process everything you’re telling me.”"
+    },
+    {
+        "word": "music",
+        "meaning": "music – “I love music.”"
+    },
+    {
+        "word": "including",
+        "meaning": "including – “Around 20 people attended, including Bob and Beth.”"
+    },
+    {
+        "word": "consider",
+        "meaning": "consider – “I hope you consider my project proposal.”"
+    },
+    {
+        "word": "appear",
+        "meaning": "appear – “How did that appear out of nowhere?”"
+    },
+    {
+        "word": "actually",
+        "meaning": "actually – “I’m actually just heading out.”"
+    },
+    {
+        "word": "buy",
+        "meaning": "buy – “I’m going to buy these shoes.”"
+    },
+    {
+        "word": "probably",
+        "meaning": "probably – “He’s probably still asleep.”"
+    },
+    {
+        "word": "human",
+        "meaning": "human – “Give him a break, he is only human.”"
+    },
+    {
+        "word": "wait",
+        "meaning": "wait – “Is it alright if you wait for a few minutes?”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "serve",
+        "meaning": "serve – “This blow dryer has served me well for years.”"
+    },
+    {
+        "word": "plan",
+        "meaning": "plan – “What’s your plan this time?”"
+    },
+    {
+        "word": "cut",
+        "meaning": "cut – “Don’t cut your hair.”"
+    },
+    {
+        "word": "college",
+        "meaning": "college – “We met in college.”"
+    },
+    {
+        "word": "interest",
+        "meaning": "interest – “Music is an interest of mine.”"
+    },
+    {
+        "word": "death",
+        "meaning": "death – “Death is such a heavy topic for me.”"
+    },
+    {
+        "word": "course",
+        "meaning": "course – “What course did you take up in college?”"
+    },
+    {
+        "word": "someone",
+        "meaning": "someone – “Is there someone who can go with you?”"
+    },
+    {
+        "word": "experience",
+        "meaning": "experience – “What an exciting experience!”"
+    },
+    {
+        "word": "behind",
+        "meaning": "behind – “I’m scared to check what’s behind that door.”"
+    },
+    {
+        "word": "reach",
+        "meaning": "reach – “I can’t reach him, he won’t answer his phone.”"
+    },
+    {
+        "word": "local",
+        "meaning": "local – “This is a local business.”"
+    },
+    {
+        "word": "kill",
+        "meaning": "kill – “Smoking can kill you.”"
+    },
+    {
+        "word": "six",
+        "meaning": "six – “I have six books about Psychology.”"
+    },
+    {
+        "word": "remain",
+        "meaning": "remain – “These remain on the top shelf.”"
+    },
+    {
+        "word": "effect",
+        "meaning": "effect – “Wow, the effect of that mascara is great!”"
+    },
+    {
+        "word": "use",
+        "meaning": "use – “Can I use your phone?”"
+    },
+    {
+        "word": "yeah",
+        "meaning": "yeah – “Yeah, he did call me earlier.”"
+    },
+    {
+        "word": "suggest",
+        "meaning": "suggest – “He did suggest that to me.”"
+    },
+    {
+        "word": "class",
+        "meaning": "class – “We were in the same English class.”"
+    },
+    {
+        "word": "control",
+        "meaning": "control – “Where’s the remote control?”"
+    },
+    {
+        "word": "raise",
+        "meaning": "raise – “It’s so challenging to discipline kids these days.”"
+    },
+    {
+        "word": "care",
+        "meaning": "care – “I don’t care about what you think.”"
+    },
+    {
+        "word": "perhaps",
+        "meaning": "perhaps – “Perhaps we can arrive at a compromise.”"
+    },
+    {
+        "word": "little",
+        "meaning": "little – “There’s a little bird outside my window.”"
+    },
+    {
+        "word": "late",
+        "meaning": "late – “I am running late for my doctor’s appointment.”"
+    },
+    {
+        "word": "hard",
+        "meaning": "hard – “That test was so hard.”"
+    },
+    {
+        "word": "field",
+        "meaning": "field – “He’s over there, by the soccer field.”"
+    },
+    {
+        "word": "else",
+        "meaning": "else – “Is anyone else coming?”"
+    },
+    {
+        "word": "pass",
+        "meaning": "pass – “Can we pass by the grocery store?”"
+    },
+    {
+        "word": "former",
+        "meaning": "former – “She was my former housemate.”"
+    },
+    {
+        "word": "sell",
+        "meaning": "sell – “We can sell your old couch online.”"
+    },
+    {
+        "word": "major",
+        "meaning": "major – “It’s a major issue for the project.”"
+    },
+    {
+        "word": "sometimes",
+        "meaning": "sometimes – “Sometimes I forget to turn off the porch lights.”"
+    },
+    {
+        "word": "require",
+        "meaning": "require – “They’ll require you to show your I.D.”"
+    },
+    {
+        "word": "along",
+        "meaning": "along – “Can I tag along your road trip?”"
+    },
+    {
+        "word": "development",
+        "meaning": "development – “This news development is really interesting.”"
+    },
+    {
+        "word": "themselves",
+        "meaning": "themselves – “They can take care of themselves.”"
+    },
+    {
+        "word": "report",
+        "meaning": "report – “I read her report and it was great!”"
+    },
+    {
+        "word": "role",
+        "meaning": "role – “She’s going to play the role of Elsa.”"
+    },
+    {
+        "word": "better",
+        "meaning": "better – “Your singing has gotten so much better!”"
+    },
+    {
+        "word": "economic",
+        "meaning": "economic – “Some countries are facing an economic crisis.”"
+    },
+    {
+        "word": "effort",
+        "meaning": "effort – “The government must make an effort to solve this.”"
+    },
+    {
+        "word": "up",
+        "meaning": "up – “His grades have gone up.”"
+    },
+    {
+        "word": "decide",
+        "meaning": "decide – “Please decide where to eat.”"
+    },
+    {
+        "word": "rate",
+        "meaning": "rate – “How would you rate the hotel’s service?”"
+    },
+    {
+        "word": "strong",
+        "meaning": "strong – “They have strong customer service here!”"
+    },
+    {
+        "word": "possible",
+        "meaning": "possible – “Maybe it’s possible to change their bathroom amenities.”"
+    },
+    {
+        "word": "heart",
+        "meaning": "heart – “My heart is so full.”"
+    },
+    {
+        "word": "drug",
+        "meaning": "drug – “She got the patent for the drug she has created to cure cancer.”"
+    },
+    {
+        "word": "show",
+        "meaning": "show – “Can you show me how to solve this puzzle?”"
+    },
+    {
+        "word": "leader",
+        "meaning": "leader – “You are a wonderful leader.”"
+    },
+    {
+        "word": "light",
+        "meaning": "light – “Watch her face light up when you mention his name.”"
+    },
+    {
+        "word": "voice",
+        "meaning": "voice – “Hearing his mom’s voice is all he need right now.”"
+    },
+    {
+        "word": "wife",
+        "meaning": "wife – “My wife is away for the weekend.”"
+    },
+    {
+        "word": "whole",
+        "meaning": "whole – “I have the whole house to myself.”"
+    },
+    {
+        "word": "police",
+        "meaning": "police – “The police have questioned him about the incident.”"
+    },
+    {
+        "word": "mind",
+        "meaning": "mind – “This relaxation technique really eases my mind.”"
+    },
+    {
+        "word": "finally",
+        "meaning": "finally – “I can finally move out from my old apartment.”"
+    },
+    {
+        "word": "pull",
+        "meaning": "pull – “My baby niece likes to pull my hair.”"
+    },
+    {
+        "word": "return",
+        "meaning": "return – “I give her tickles in return.”"
+    },
+    {
+        "word": "free",
+        "meaning": "free – “The best things in life are free.”"
+    },
+    {
+        "word": "military",
+        "meaning": "military – “His dad is in the military.”"
+    },
+    {
+        "word": "price",
+        "meaning": "price – “This is the price you pay for lying.”"
+    },
+    {
+        "word": "report",
+        "meaning": "report – “Did you report this to the police?”"
+    },
+    {
+        "word": "less",
+        "meaning": "less – “I am praying for less stress this coming new year.”"
+    },
+    {
+        "word": "according",
+        "meaning": "according – “According to the weather report, it’s going to rain today.”"
+    },
+    {
+        "word": "decision",
+        "meaning": "decision – “This is a big decision for me.”"
+    },
+    {
+        "word": "explain",
+        "meaning": "explain – “I’ll explain everything later, I promise.”"
+    },
+    {
+        "word": "son",
+        "meaning": "son – “His son is so cute!”"
+    },
+    {
+        "word": "hope",
+        "meaning": "hope – “I hope I’ll have a son one day.”"
+    },
+    {
+        "word": "even",
+        "meaning": "even – “Even if they’ve broken up, they still remain friends.”"
+    },
+    {
+        "word": "develop",
+        "meaning": "develop – “That rash could develop into something more serious.”"
+    },
+    {
+        "word": "view",
+        "meaning": "view – “This view is amazing!”"
+    },
+    {
+        "word": "relationship",
+        "meaning": "relationship – “They’ve taken their relationship to the next level.”"
+    },
+    {
+        "word": "carry",
+        "meaning": "carry – “Can you carry my bag for me?”"
+    },
+    {
+        "word": "town",
+        "meaning": "town – “This town is extremely quiet.”"
+    },
+    {
+        "word": "road",
+        "meaning": "road – “There’s a road that leads to the edge of the woods.”"
+    },
+    {
+        "word": "drive",
+        "meaning": "drive – “You can’t drive there, you need to walk.”"
+    },
+    {
+        "word": "arm",
+        "meaning": "arm – “He broke his arm during practice.”"
+    },
+    {
+        "word": "true",
+        "meaning": "true – “It’s true, I’m leaving the company.”"
+    },
+    {
+        "word": "federal",
+        "meaning": "federal – “Animal abuse is now a federal felony!”"
+    },
+    {
+        "word": "break",
+        "meaning": "break – “Don’t break the law.”"
+    },
+    {
+        "word": "better",
+        "meaning": "better – “You better learn how to follow rules.”"
+    },
+    {
+        "word": "difference",
+        "meaning": "difference – “What’s the difference between happiness and contentment?”"
+    },
+    {
+        "word": "thank",
+        "meaning": "thank – “I forgot to thank her for the pie she sent us.”"
+    },
+    {
+        "word": "receive",
+        "meaning": "receive – “Did you receive the pie I sent you?”"
+    },
+    {
+        "word": "value",
+        "meaning": "value – “I value our friendship so much.”"
+    },
+    {
+        "word": "international ",
+        "meaning": "international  – “Their brand has gone international!”"
+    },
+    {
+        "word": "building ",
+        "meaning": "building – “This building is so tall!”"
+    },
+    {
+        "word": "action ",
+        "meaning": "action – “You next action is going to be critical.”"
+    },
+    {
+        "word": "full ",
+        "meaning": "full – “My work load is so full now.”"
+    },
+    {
+        "word": "model ",
+        "meaning": "model – “A great leader is a great model of how to do things.”"
+    },
+    {
+        "word": "join ",
+        "meaning": "join – “He wants to join the soccer team.”"
+    },
+    {
+        "word": "season ",
+        "meaning": "season – “Christmas is my favorite season!”"
+    },
+    {
+        "word": "society ",
+        "meaning": "society – “Their society is holding a fund raiser.”"
+    },
+    {
+        "word": "because",
+        "meaning": "because – “I’m going home because my mom needs me.”"
+    },
+    {
+        "word": "tax ",
+        "meaning": "tax – “How much is the current income tax?”"
+    },
+    {
+        "word": "director ",
+        "meaning": "director – “The director yelled ‘Cut!'”"
+    },
+    {
+        "word": "early ",
+        "meaning": "early – “I’m too early for my appointment.”"
+    },
+    {
+        "word": "position ",
+        "meaning": "position  – “Please position your hand properly when drawing.”"
+    },
+    {
+        "word": "player ",
+        "meaning": "player – “That basketball player is cute.”"
+    },
+    {
+        "word": "agree ",
+        "meaning": "agree – “I agree! He is cute!”"
+    },
+    {
+        "word": "especially ",
+        "meaning": "especially – “I especially like his blue eyes.”"
+    },
+    {
+        "word": "record ",
+        "meaning": "record  – “Can we record the minutes of this meeting, please?”"
+    },
+    {
+        "word": "pick",
+        "meaning": "pick – “Did you pick a color theme already?”"
+    },
+    {
+        "word": "wear ",
+        "meaning": "wear  – “Is that what you’re going to wear for the party?”"
+    },
+    {
+        "word": "paper ",
+        "meaning": "paper – “You can use a special paper for your invitations.”"
+    },
+    {
+        "word": "special ",
+        "meaning": "special – “Some special paper are even scented!”"
+    },
+    {
+        "word": "space",
+        "meaning": "space – “Please leave some space to write down your phone number.”"
+    },
+    {
+        "word": "ground ",
+        "meaning": "ground  – “The ground is shaking.”"
+    },
+    {
+        "word": "form",
+        "meaning": "form – “A new island was formed after that big earthquake.”"
+    },
+    {
+        "word": "support ",
+        "meaning": "support  – “I need your support for this project.”"
+    },
+    {
+        "word": "event",
+        "meaning": "event – “We’re holding a big event tonight.”"
+    },
+    {
+        "word": "official",
+        "meaning": "official – “Our official wedding photos are out!”"
+    },
+    {
+        "word": "whose ",
+        "meaning": "whose  – “Whose umbrella is this?”"
+    },
+    {
+        "word": "matter ",
+        "meaning": "matter – “What does it matter anyway?”"
+    },
+    {
+        "word": "everyone ",
+        "meaning": "everyone  – “Everyone thinks I stole that file.”"
+    },
+    {
+        "word": "center ",
+        "meaning": "center – “I hate being the center of attention.”"
+    },
+    {
+        "word": "couple ",
+        "meaning": "couple – “The couple is on their honeymoon now.”"
+    },
+    {
+        "word": "site",
+        "meaning": "site – “This site is so big!”"
+    },
+    {
+        "word": "end",
+        "meaning": "end – “It’s the end of an era.”"
+    },
+    {
+        "word": "project ",
+        "meaning": "project – “This project file is due tomorrow.”"
+    },
+    {
+        "word": "hit ",
+        "meaning": "hit  – “He hit the burglar with a bat.”"
+    },
+    {
+        "word": "base",
+        "meaning": "base – “All moms are their child’s home base.”"
+    },
+    {
+        "word": "activity ",
+        "meaning": "activity – “What musical activity can you suggest for my toddler?”"
+    },
+    {
+        "word": "star",
+        "meaning": "star – “My son can draw a star!”"
+    },
+    {
+        "word": "table ",
+        "meaning": "table  – “I saw him draw it while he was writing on the table.”"
+    },
+    {
+        "word": "need ",
+        "meaning": "need  – “I need to enroll him to a good preschool.”"
+    },
+    {
+        "word": "court",
+        "meaning": "court – “There’s a basketball court near our house.”"
+    },
+    {
+        "word": "produce ",
+        "meaning": "produce  – “Fresh farm produce is the best.”"
+    },
+    {
+        "word": "eat ",
+        "meaning": "eat – “I could eat that all day.”"
+    },
+    {
+        "word": "American ",
+        "meaning": "American – “My sister is dating an American.”"
+    },
+    {
+        "word": "teach ",
+        "meaning": "teach – “I love to teach English lessons.”"
+    },
+    {
+        "word": "oil ",
+        "meaning": "oil  – “Could you buy me some cooking oil at the store?”"
+    },
+    {
+        "word": "half ",
+        "meaning": "half – “Just half a liter please.”"
+    },
+    {
+        "word": "situation",
+        "meaning": "situation – “The situation is getting out of hand.”"
+    },
+    {
+        "word": "easy",
+        "meaning": "easy – “I thought you said this was going to be easy?”"
+    },
+    {
+        "word": "cost ",
+        "meaning": "cost – “The cost of fuel has increased!”"
+    },
+    {
+        "word": "industry",
+        "meaning": "industry – “The fuel industry is hiking prices.”"
+    },
+    {
+        "word": "figure",
+        "meaning": "figure – “Will our government figure out how to fix this problem?”"
+    },
+    {
+        "word": "face ",
+        "meaning": "face  – “I can’t bear to face this horrendous traffic again and again.”"
+    },
+    {
+        "word": "street ",
+        "meaning": "street  – “Let’s cross the street.”"
+    },
+    {
+        "word": "image",
+        "meaning": "image – “There’s an image of him stored inside my mind.”"
+    },
+    {
+        "word": "itself ",
+        "meaning": "itself  – “The bike itself is pretty awesome.”"
+    },
+    {
+        "word": "phone ",
+        "meaning": "phone  – “Plus, it has a phone holder.”"
+    },
+    {
+        "word": "either",
+        "meaning": "either – “I either walk or commute to work.”"
+    },
+    {
+        "word": "data ",
+        "meaning": "data – “How can we simplify this data?”"
+    },
+    {
+        "word": "cover ",
+        "meaning": "cover  – “Could you cover for me during emergencies?”"
+    },
+    {
+        "word": "quite",
+        "meaning": "quite – “I’m quite satisfied with their work.”"
+    },
+    {
+        "word": "picture ",
+        "meaning": "picture  – “Picture this: a lake, a cabin, and lots of peace and quiet."
+    },
+    {
+        "word": "clear",
+        "meaning": "clear – “That picture is so clear inside my head.”"
+    },
+    {
+        "word": "practice",
+        "meaning": "practice – “Let’s practice our dance number.”"
+    },
+    {
+        "word": "piece ",
+        "meaning": "piece – “That’s a piece of cake!”"
+    },
+    {
+        "word": "land",
+        "meaning": "land – “Their plane is going to land soon.”"
+    },
+    {
+        "word": "recent",
+        "meaning": "recent – “This is her most recent social media post.”"
+    },
+    {
+        "word": "describe",
+        "meaning": "describe – “Describe yourself in one word.”"
+    },
+    {
+        "word": "product",
+        "meaning": "product – “This is my favorite product in their new line of cosmetics.”"
+    },
+    {
+        "word": "doctor",
+        "meaning": "doctor – “The doctor is in.”"
+    },
+    {
+        "word": "wall",
+        "meaning": "wall – “Can you post this up on the wall?”"
+    },
+    {
+        "word": "patient ",
+        "meaning": "patient  – “The patient is in so much pain now.”"
+    },
+    {
+        "word": "worker",
+        "meaning": "worker – “She’s a factory worker.”"
+    },
+    {
+        "word": "news ",
+        "meaning": "news  – “I saw that on the news.”"
+    },
+    {
+        "word": "test",
+        "meaning": "test – “I have to pass this English test.”"
+    },
+    {
+        "word": "movie",
+        "meaning": "movie – “Let’s watch a movie later.”"
+    },
+    {
+        "word": "certain ",
+        "meaning": "certain  – “There’s a certain kind of magic in the air now.”"
+    },
+    {
+        "word": "north",
+        "meaning": "north – “Santa lives up north.”"
+    },
+    {
+        "word": "love",
+        "meaning": "love – ” l love Christmas!”"
+    },
+    {
+        "word": "personal ",
+        "meaning": "personal  – “This letter is very personal.”"
+    },
+    {
+        "word": "open",
+        "meaning": "open – “Why did you open and read it?”"
+    },
+    {
+        "word": "support",
+        "meaning": "support – “Will you support him?”"
+    },
+    {
+        "word": "simply",
+        "meaning": "simply – “I simply won’t tolerate bad behavior.”"
+    },
+    {
+        "word": "third",
+        "meaning": "third – “This is the third time you’ve lied to me.”"
+    },
+    {
+        "word": "technology",
+        "meaning": "technology – “Write about the advantages of technology.”"
+    },
+    {
+        "word": "catch",
+        "meaning": "catch – “Let’s catch up soon, please!”"
+    },
+    {
+        "word": "step",
+        "meaning": "step – “Watch your step.”"
+    },
+    {
+        "word": "baby",
+        "meaning": "baby – “Her baby is so adorable.”"
+    },
+    {
+        "word": "computer",
+        "meaning": "computer – “Can you turn on the computer, please?”"
+    },
+    {
+        "word": "type ",
+        "meaning": "type  – “You need to type in your password.”"
+    },
+    {
+        "word": "attention",
+        "meaning": "attention – “Can I have your attention, please?”"
+    },
+    {
+        "word": "draw",
+        "meaning": "draw – “Can you draw this for me?”"
+    },
+    {
+        "word": "film",
+        "meaning": "film – “That film is absolutely mind-blowing.”"
+    },
+    {
+        "word": "Republican",
+        "meaning": "Republican – “He is a Republican candidate.”"
+    },
+    {
+        "word": "tree",
+        "meaning": "tree – “That tree has been there for generations.”"
+    },
+    {
+        "word": "source",
+        "meaning": "source – “You are my source of strength.”"
+    },
+    {
+        "word": "red",
+        "meaning": "red – “I’ll wear a red dress tonight.”"
+    },
+    {
+        "word": "nearly",
+        "meaning": "nearly – “He nearly died in that accident!”"
+    },
+    {
+        "word": "organization",
+        "meaning": "organization – “Their organization is doing great things for street kids.”"
+    },
+    {
+        "word": "choose",
+        "meaning": "choose – “Let me choose a color.”"
+    },
+    {
+        "word": "cause",
+        "meaning": "cause – “We have to see the cause and effect of this experiment.”"
+    },
+    {
+        "word": "hair ",
+        "meaning": "hair – “I’ll cut my hair short for a change.”"
+    },
+    {
+        "word": "look – ",
+        "meaning": "look – “Can you look at the items I bought?”"
+    },
+    {
+        "word": "point ",
+        "meaning": "point  “What is the point of all this?"
+    },
+    {
+        "word": "century ",
+        "meaning": "century – “We’re living in the 21st century, Mary.”"
+    },
+    {
+        "word": "evidence ",
+        "meaning": "evidence – “The evidence clearly shows that he is guilty.”"
+    },
+    {
+        "word": "window ",
+        "meaning": "window  – “I’ll buy window curtains next week.”"
+    },
+    {
+        "word": "difficult ",
+        "meaning": "difficult  “Sometimes, life can be difficult.”"
+    },
+    {
+        "word": "listen",
+        "meaning": "listen – “You have to listen to your teacher.”"
+    },
+    {
+        "word": "soon ",
+        "meaning": "soon  – “I will launch my course soon.”"
+    },
+    {
+        "word": "culture ",
+        "meaning": "culture  – “I hope they understand our culture better.”"
+    },
+    {
+        "word": "billion ",
+        "meaning": "billion  – “My target is to have 1 billion dollars in my account by the end of the year.”"
+    },
+    {
+        "word": "chance ",
+        "meaning": "chance – “Is there any chance that you can do this for me?”"
+    },
+    {
+        "word": "brother ",
+        "meaning": "brother – “My brother always have my back.”"
+    },
+    {
+        "word": "energy ",
+        "meaning": "energy  –  “Now put that energy into walking.”"
+    },
+    {
+        "word": "period ",
+        "meaning": "period – “They covered a period of twenty years.”"
+    },
+    {
+        "word": "course ",
+        "meaning": "course  – “Have seen my course already?”"
+    },
+    {
+        "word": "summer ",
+        "meaning": "summer – “I’ll go to the beach in summer.”"
+    },
+    {
+        "word": "less ",
+        "meaning": "less – “Sometimes, less is more.”"
+    },
+    {
+        "word": "realize ",
+        "meaning": "realize – “I just realize that I have a meeting today.”"
+    },
+    {
+        "word": "hundred ",
+        "meaning": "hundred – “I have a hundred dollars that I can lend you.”"
+    },
+    {
+        "word": "available ",
+        "meaning": "available – “I am available to work on your project.”"
+    },
+    {
+        "word": "plant ",
+        "meaning": "plant – “Plant a seed.”"
+    },
+    {
+        "word": "likely ",
+        "meaning": "likely – “It was likely a deer trail.”"
+    },
+    {
+        "word": "opportunity ",
+        "meaning": "opportunity – “It was the perfect opportunity to test her theory.”"
+    },
+    {
+        "word": "term ",
+        "meaning": "term  – “I’m sure there’s a Latin term for it.”"
+    },
+    {
+        "word": "short ",
+        "meaning": "short  – “It was just a short stay at the hotel.”"
+    },
+    {
+        "word": "letter ",
+        "meaning": "letter – “I already passed my letter of intent.”"
+    },
+    {
+        "word": "condition ",
+        "meaning": "condition – “Do you know the condition I am in?”"
+    },
+    {
+        "word": "choice ",
+        "meaning": "choice – “I have no choice.”"
+    },
+    {
+        "word": "place ",
+        "meaning": "place – “Let’s meet out at meeting place.”"
+    },
+    {
+        "word": "single ",
+        "meaning": "single – “I am a single parent.”"
+    },
+    {
+        "word": "rule ",
+        "meaning": "rule – “It’s the rule of the law.”"
+    },
+    {
+        "word": "daughter ",
+        "meaning": "daughter – “My daughter knows how to read now.”"
+    },
+    {
+        "word": "administration ",
+        "meaning": "administration – “I will take this up with the administration.”"
+    },
+    {
+        "word": "south ",
+        "meaning": "south – “I am headed south.”"
+    },
+    {
+        "word": "husband ",
+        "meaning": "husband – “My husband just bought me a ring for my birthday.”"
+    },
+    {
+        "word": "Congress ",
+        "meaning": "Congress – “It will be debated at the Congress.”"
+    },
+    {
+        "word": "floor ",
+        "meaning": "floor – “She is our floor manager.”"
+    },
+    {
+        "word": "campaign ",
+        "meaning": "campaign – “I handled their election campaign.”"
+    },
+    {
+        "word": "material ",
+        "meaning": "material – “She had nothing material to report.”"
+    },
+    {
+        "word": "population ",
+        "meaning": "population – “The population of the nearest big city was growing.”"
+    },
+    {
+        "word": "well ",
+        "meaning": "well – “I wish you well.”"
+    },
+    {
+        "word": "call ",
+        "meaning": "call – ” I am going to call the bank.”"
+    },
+    {
+        "word": "economy ",
+        "meaning": "economy – “The economy is booming.”"
+    },
+    {
+        "word": "medical ",
+        "meaning": "medical -“She needs medical assistance.”"
+    },
+    {
+        "word": "hospital ",
+        "meaning": "hospital – “I’ll take her to the nearest hospital.”"
+    },
+    {
+        "word": "church  ",
+        "meaning": "church  – “I saw you in church last Sunday.”"
+    },
+    {
+        "word": "close ",
+        "meaning": "close -“Please close the door.”"
+    },
+    {
+        "word": "thousand",
+        "meaning": "thousand – “There are a thousand reasons to learn English!”"
+    },
+    {
+        "word": "risk – ",
+        "meaning": "risk – “Taking a risk can be rewarding.”"
+    },
+    {
+        "word": "current – ",
+        "meaning": "current – “What is your current address?”"
+    },
+    {
+        "word": "fire – ",
+        "meaning": "fire – “Make sure your smoke alarm works in case of fire.”"
+    },
+    {
+        "word": "future",
+        "meaning": "future  -“The future is full of hope.”"
+    },
+    {
+        "word": "wrong ",
+        "meaning": "wrong – “That is the wrong answer.”"
+    },
+    {
+        "word": "involve ",
+        "meaning": "involve – “We need to involve the police.”"
+    },
+    {
+        "word": "defense ",
+        "meaning": "defense – “What is your defense or reason you did this?”"
+    },
+    {
+        "word": "anyone ",
+        "meaning": "anyone – “Does anyone know the answer?”"
+    },
+    {
+        "word": "increase ",
+        "meaning": "increase – “Let’s increase your test score.”"
+    },
+    {
+        "word": "security ",
+        "meaning": "security – “Some apartment buildings have security.”"
+    },
+    {
+        "word": "bank ",
+        "meaning": "bank – “I need to go to the bank to withdraw some money.”"
+    },
+    {
+        "word": "myself ",
+        "meaning": "myself – “I can clean up by myself.”"
+    },
+    {
+        "word": "certainly ",
+        "meaning": "certainly – “I can certainly help clean up.”"
+    },
+    {
+        "word": "west ",
+        "meaning": "west – “If you drive West, you will arrive in California.”"
+    },
+    {
+        "word": "sport ",
+        "meaning": "sport – “My favorite sport is soccer.”"
+    },
+    {
+        "word": "board ",
+        "meaning": "board – “Can you see the board?”"
+    },
+    {
+        "word": "seek ",
+        "meaning": "seek – “Seek and you will find.”"
+    },
+    {
+        "word": "per ",
+        "meaning": "per – “Lobster is $20 per pound.”"
+    },
+    {
+        "word": "subject ",
+        "meaning": "subject – “My favorite subject is English!”"
+    },
+    {
+        "word": "officer ",
+        "meaning": "officer – “Where can I find a police officer?”"
+    },
+    {
+        "word": "private ",
+        "meaning": "private – “This is a private party.”"
+    },
+    {
+        "word": "rest ",
+        "meaning": "rest – “Let’s take a 15 minute rest.”"
+    },
+    {
+        "word": "behavior ",
+        "meaning": "behavior – “This dog’s behavior is excellent.”"
+    },
+    {
+        "word": "deal ",
+        "meaning": "deal – “A used car can be a good deal.”"
+    },
+    {
+        "word": "performance ",
+        "meaning": "performance – “Your performance can be affected by your sleep.”"
+    },
+    {
+        "word": "fight ",
+        "meaning": "fight – “I don’t want to fight with you.”"
+    },
+    {
+        "word": "throw ",
+        "meaning": "throw – “Throw me the ball!”"
+    },
+    {
+        "word": "top ",
+        "meaning": "top – “You are a top student.”"
+    },
+    {
+        "word": "quickly ",
+        "meaning": "quickly – “Let’s finish reading this quickly.”"
+    },
+    {
+        "word": "past ",
+        "meaning": "past – “In the past, my English was not as good as it is today.”"
+    },
+    {
+        "word": "goal ",
+        "meaning": "goal – “My goal is to speak English fluently.”"
+    },
+    {
+        "word": "second ",
+        "meaning": "second – “My second goal is to increase my confidence.”"
+    },
+    {
+        "word": "bed ",
+        "meaning": "bed – “I go to bed around 10pm.”"
+    },
+    {
+        "word": "order ",
+        "meaning": "order – “I would like to order a book.”"
+    },
+    {
+        "word": "author ",
+        "meaning": "author – “The author of this series is world-famous.”"
+    },
+    {
+        "word": "fill ",
+        "meaning": "fill – “I need to fill (up) my gas tank.”"
+    },
+    {
+        "word": "represent ",
+        "meaning": "represent – “I represent my family.”"
+    },
+    {
+        "word": "focus ",
+        "meaning": "focus – “Turn off your phone and the TV and focus on your studies!”"
+    },
+    {
+        "word": "foreign ",
+        "meaning": "foreign – “It’s great having foreign friends.”"
+    },
+    {
+        "word": "drop ",
+        "meaning": "drop – “Please don’t drop the eggs!”"
+    },
+    {
+        "word": "plan ",
+        "meaning": "plan – “Let’s make a plan.”"
+    },
+    {
+        "word": "blood ",
+        "meaning": "blood – “The hospital needs people to give blood.”"
+    },
+    {
+        "word": "upon ",
+        "meaning": "upon – “Once upon a time, a princess lived in a castle.”"
+    },
+    {
+        "word": "agency ",
+        "meaning": "agency – “Let’s contract an agency to help with marketing.”"
+    },
+    {
+        "word": "push ",
+        "meaning": "push – “The door says ‘push,’ not ‘pull.'”"
+    },
+    {
+        "word": "nature ",
+        "meaning": "nature – “I love walking in nature!”"
+    },
+    {
+        "word": "color – ",
+        "meaning": "color – “My favorite color is blue.”"
+    },
+    {
+        "word": "no ",
+        "meaning": "no – “‘No’ is one of the shortest complete sentences.”"
+    },
+    {
+        "word": "recently ",
+        "meaning": "recently – “I cleaned the bathroom most recently, so I think it’s your turn this time.”"
+    },
+    {
+        "word": "store ",
+        "meaning": "store – “I’m going to the store to buy some bread.”"
+    },
+    {
+        "word": "reduce ",
+        "meaning": "reduce – “Reduce, reuse, and recycle are the ways to help the environment.”"
+    },
+    {
+        "word": "sound ",
+        "meaning": "sound – “I like the sound of wind chimes.”"
+    },
+    {
+        "word": "note ",
+        "meaning": "note – “Please take notes during the lesson.”"
+    },
+    {
+        "word": "fine ",
+        "meaning": "fine – “I feel fine.”"
+    },
+    {
+        "word": "before ",
+        "meaning": "before – “Before the movie, let’s buy popcorn!”"
+    },
+    {
+        "word": "near ",
+        "meaning": "near – “Near, far, wherever you are, I do believe that the heart goes on.”"
+    },
+    {
+        "word": "movement ",
+        "meaning": "movement – “The environmental movement is an international movement.”"
+    },
+    {
+        "word": "page ",
+        "meaning": "page – “Please turn to page 62.”"
+    },
+    {
+        "word": "enter ",
+        "meaning": "enter – “You can enter the building on the left.”"
+    },
+    {
+        "word": "share ",
+        "meaning": "share – “Let me share my idea.”"
+    },
+    {
+        "word": "than ",
+        "meaning": "than – “Ice cream has more calories than water.”"
+    },
+    {
+        "word": "common ",
+        "meaning": "common – “Most people can find something in common with each other.”"
+    },
+    {
+        "word": "poor ",
+        "meaning": "poor – “We had a poor harvest this year because it was so dry.”"
+    },
+    {
+        "word": "other  ",
+        "meaning": "other  – “This pen doesn’t work, try the other one.”"
+    },
+    {
+        "word": "natural ",
+        "meaning": "natural – “This cleaner is natural, there aren’t any chemicals in it.”"
+    },
+    {
+        "word": "race ",
+        "meaning": "race – “We watched the car race on TV.”"
+    },
+    {
+        "word": "concern – ",
+        "meaning": "concern – “Thank you for your concern, but I’m fine.”"
+    },
+    {
+        "word": "series ",
+        "meaning": "series – “What is your favorite TV series?”"
+    },
+    {
+        "word": "significant ",
+        "meaning": "significant – “His job earns a significant amount of money.”"
+    },
+    {
+        "word": "similar ",
+        "meaning": "similar – “These earrings don’t match, but they are similar.”"
+    },
+    {
+        "word": "hot ",
+        "meaning": "hot – “Don’t touch the stove, it’s still hot.”"
+    },
+    {
+        "word": "language ",
+        "meaning": "language – “Learning a new language is fun.”"
+    },
+    {
+        "word": "each ",
+        "meaning": "each – “Put a flower in each vase.”"
+    },
+    {
+        "word": "usually ",
+        "meaning": "usually – “I usually shop at the corner store.”"
+    },
+    {
+        "word": "response ",
+        "meaning": "response – “I didn’t expect his response to come so soon.”"
+    },
+    {
+        "word": "dead – ",
+        "meaning": "dead – “My phone is dead, let me charge it.”"
+    },
+    {
+        "word": "rise ",
+        "meaning": "rise – “The sun will rise at 7:00 a.m.”"
+    },
+    {
+        "word": "animal ",
+        "meaning": "animal – “What kind of animal is that?”"
+    },
+    {
+        "word": "factor ",
+        "meaning": "factor – “Heredity is a factor in your overall health.”"
+    },
+    {
+        "word": "decade ",
+        "meaning": "decade – “I’ve lived in this city for over a decade.”"
+    },
+    {
+        "word": "article ",
+        "meaning": "article – “Did you read that newspaper article?”"
+    },
+    {
+        "word": "shoot ",
+        "meaning": "shoot – “He wants to shoot arrows at the target.”"
+    },
+    {
+        "word": "east ",
+        "meaning": "east – “Drive east for three miles.”"
+    },
+    {
+        "word": "save ",
+        "meaning": "save – “I save all my cans for recycling.”"
+    },
+    {
+        "word": "seven ",
+        "meaning": "seven – “There are seven slices of pie left.”"
+    },
+    {
+        "word": "artist ",
+        "meaning": "artist – “Taylor Swift is a recording artist.”"
+    },
+    {
+        "word": "away ",
+        "meaning": "away – “I wish that mosquito would go away.”\n"
+    },
+    {
+        "word": "scene ",
+        "meaning": "scene – “He painted a colorful street scene.”"
+    },
+    {
+        "word": "stock ",
+        "meaning": "stock – “That shop has a good stock of postcards.”"
+    },
+    {
+        "word": "career ",
+        "meaning": "career – “Retail sales is a good career for some people.”"
+    },
+    {
+        "word": "despite ",
+        "meaning": "despite – “Despite the rain, we will still have the picnic.”"
+    },
+    {
+        "word": "central ",
+        "meaning": "central – “There is good shopping in central London.”"
+    },
+    {
+        "word": "eight ",
+        "meaning": "eight – “That recipe takes eight cups of flour.”"
+    },
+    {
+        "word": "thus ",
+        "meaning": "thus – “We haven’t had any problems thus far.”"
+    },
+    {
+        "word": "treatment ",
+        "meaning": "treatment – “I will propose a treatment plan for your injury.”"
+    },
+    {
+        "word": "beyond ",
+        "meaning": "beyond – “The town is just beyond those mountains.”"
+    },
+    {
+        "word": "happy ",
+        "meaning": "happy – “Kittens make me happy.”"
+    },
+    {
+        "word": "exactly ",
+        "meaning": "exactly – “Use exactly one teaspoon of salt in that recipe.”"
+    },
+    {
+        "word": "protect ",
+        "meaning": "protect – “A coat will protect you from the cold weather.”"
+    },
+    {
+        "word": "approach ",
+        "meaning": "approach – “The cat slowly approached the bird.”"
+    },
+    {
+        "word": "lie ",
+        "meaning": "lie – “Teach your children not to lie.”"
+    },
+    {
+        "word": "size ",
+        "meaning": "size – “What size is that shirt?"
+    },
+    {
+        "word": "dog ",
+        "meaning": "dog – “Do you think a dog is a good pet?”"
+    },
+    {
+        "word": "fund ",
+        "meaning": "fund – “I have a savings fund for college.”"
+    },
+    {
+        "word": "serious ",
+        "meaning": "serious – “She is so serious, she never laughs.”"
+    },
+    {
+        "word": "occur ",
+        "meaning": "occur – “Strange things occur in that empty house.”"
+    },
+    {
+        "word": "media ",
+        "meaning": "media – “That issue has been discussed in the media.”"
+    },
+    {
+        "word": "ready ",
+        "meaning": "ready – “Are you ready to leave for work?”"
+    },
+    {
+        "word": "sign ",
+        "meaning": "sign – “That store needs a bigger sign.”"
+    },
+    {
+        "word": "thought ",
+        "meaning": "thought – “I’ll have to give it some thought.”"
+    },
+    {
+        "word": "list ",
+        "meaning": "list – “I made a list of things to do.”"
+    },
+    {
+        "word": "individual ",
+        "meaning": "individual – “You can buy an individual or group membership.”"
+    },
+    {
+        "word": "simple ",
+        "meaning": "simple – “The appliance comes with simple instructions.”"
+    },
+    {
+        "word": "quality ",
+        "meaning": "quality – “I paid a little more for quality shoes.”"
+    },
+    {
+        "word": "pressure ",
+        "meaning": "pressure – “There is no pressure to finish right now.”"
+    },
+    {
+        "word": "accept ",
+        "meaning": "accept – “Will you accept my credit card?”"
+    },
+    {
+        "word": "answer ",
+        "meaning": "answer – “Give me your answer by noon tomorrow.”"
+    },
+    {
+        "word": "hard ",
+        "meaning": "hard – “That test was very hard.”"
+    },
+    {
+        "word": "resource ",
+        "meaning": "resource – “The library has many online resources.”"
+    },
+    {
+        "word": "identify ",
+        "meaning": "identify – “I can’t identify that plant.”"
+    },
+    {
+        "word": "left ",
+        "meaning": "left – “The door is on your left as you approach.”"
+    },
+    {
+        "word": "meeting ",
+        "meaning": "meeting – “We’ll have a staff meeting after lunch.”"
+    },
+    {
+        "word": "determine ",
+        "meaning": "determine – “Eye color is genetically determined.”"
+    },
+    {
+        "word": "prepare ",
+        "meaning": "prepare – “I’ll prepare breakfast tomorrow.”"
+    },
+    {
+        "word": "disease ",
+        "meaning": "disease – “Face masks help prevent disease.”"
+    },
+    {
+        "word": "whatever – ",
+        "meaning": "whatever – “Choose whatever flavor you like the best.”"
+    },
+    {
+        "word": "success ",
+        "meaning": "success – “Failure is the back door to success.”"
+    },
+    {
+        "word": "argue ",
+        "meaning": "argue – “It’s not a good idea to argue with your boss.”"
+    },
+    {
+        "word": "cup ",
+        "meaning": "cup – “Would you like a cup of coffee?”"
+    },
+    {
+        "word": "particularly ",
+        "meaning": "particularly – “It’s not particularly hot outside, just warm.”"
+    },
+    {
+        "word": "amount ",
+        "meaning": "amount – “It take a large amount of food to feed an elephant.”"
+    },
+    {
+        "word": "ability ",
+        "meaning": "ability – “He has the ability to explain things well.”"
+    },
+    {
+        "word": "staff ",
+        "meaning": "staff – “There are five people on staff here.”"
+    },
+    {
+        "word": "recognize ",
+        "meaning": "recognize – “Do you recognize the person in this photo?”"
+    },
+    {
+        "word": "indicate ",
+        "meaning": "indicate – “Her reply indicated that she understood.”"
+    },
+    {
+        "word": "character ",
+        "meaning": "character – “You can trust people of good character.”"
+    },
+    {
+        "word": "growth ",
+        "meaning": "growth – “The company has seen strong growth this quarter.”"
+    },
+    {
+        "word": "loss ",
+        "meaning": "loss – “The farmer suffered heavy losses after the storm.”"
+    },
+    {
+        "word": "degree ",
+        "meaning": "degree – “Set the oven to 300 degrees.”"
+    },
+    {
+        "word": "wonder ",
+        "meaning": "wonder – “I wonder if the Bulls will win the game.”"
+    },
+    {
+        "word": "attack ",
+        "meaning": "attack – “The army will attack at dawn.”"
+    },
+    {
+        "word": "herself ",
+        "meaning": "herself – “She bought herself a new coat.”"
+    },
+    {
+        "word": "region ",
+        "meaning": "region – “What internet services are in your region?”"
+    },
+    {
+        "word": "television",
+        "meaning": "television – “I don’t watch much television.”"
+    },
+    {
+        "word": "box ",
+        "meaning": "box – “I packed my dishes in a strong box.”"
+    },
+    {
+        "word": "TV ",
+        "meaning": "TV – “There is a good movie on TV tonight.”"
+    },
+    {
+        "word": "training ",
+        "meaning": "training – “The company will pay for your training.”"
+    },
+    {
+        "word": "pretty ",
+        "meaning": "pretty – “That is a pretty dress.”"
+    },
+    {
+        "word": "trade ",
+        "meaning": "trade – “The stock market traded lower today.”"
+    },
+    {
+        "word": "deal ",
+        "meaning": "deal – “I got a good deal at the store.”"
+    },
+    {
+        "word": "election ",
+        "meaning": "election – “Who do you think will win the election?”"
+    },
+    {
+        "word": "everybody ",
+        "meaning": "everybody – “Everybody likes ice cream.”"
+    },
+    {
+        "word": "physical ",
+        "meaning": "physical – “Keep a physical distance of six feet.”"
+    },
+    {
+        "word": "lay ",
+        "meaning": "lay – “Lay the baby in her crib, please.”"
+    },
+    {
+        "word": "general ",
+        "meaning": "general – “My general impression of the restaurant was good.”"
+    },
+    {
+        "word": "feeling ",
+        "meaning": "feeling – “I have a good feeling about this.”"
+    },
+    {
+        "word": "standard ",
+        "meaning": "standard – “The standard fee is $10.00.”"
+    },
+    {
+        "word": "bill ",
+        "meaning": "bill – “The electrician will send me a bill.”"
+    },
+    {
+        "word": "message ",
+        "meaning": "message – “You have a text message on your phone.”"
+    },
+    {
+        "word": "fail ",
+        "meaning": "fail – “I fail to see what is so funny about that.”"
+    },
+    {
+        "word": "outside ",
+        "meaning": "outside – “The cat goes outside sometimes.”"
+    },
+    {
+        "word": "arrive ",
+        "meaning": "arrive – “When will your plane arrive?”"
+    },
+    {
+        "word": "analysis ",
+        "meaning": "analysis – “I’ll give you my analysis when I’ve seen everything.”"
+    },
+    {
+        "word": "benefit ",
+        "meaning": "benefit – “There are many health benefits to quinoa.”"
+    },
+    {
+        "word": "name ",
+        "meaning": "name – “What’s your name?”\n"
+    },
+    {
+        "word": "sex ",
+        "meaning": "sex – “Do you know the sex of your baby yet?”"
+    },
+    {
+        "word": "forward ",
+        "meaning": "forward – “Move the car forward a few feet.”"
+    },
+    {
+        "word": "lawyer ",
+        "meaning": "lawyer – “My lawyer helped me write a will.”"
+    },
+    {
+        "word": "present ",
+        "meaning": "present – “If everyone is present, the meeting can begin.”"
+    },
+    {
+        "word": "section ",
+        "meaning": "section – “What section of the stadium are you sitting in?”"
+    },
+    {
+        "word": "environmental ",
+        "meaning": "environmental – “Environmental issues are in the news.”"
+    },
+    {
+        "word": "glass ",
+        "meaning": "glass – “Glass is much heavier than plastic.”"
+    },
+    {
+        "word": "answer ",
+        "meaning": "answer – “Could you answer a question for me?”"
+    },
+    {
+        "word": "skill ",
+        "meaning": "skill – “His best skill is woodworking.”"
+    },
+    {
+        "word": "sister ",
+        "meaning": "sister – “My sister lives close to me.”"
+    },
+    {
+        "word": "PM ",
+        "meaning": "PM – “The movie starts at 7:30 PM.”"
+    },
+    {
+        "word": "professor ",
+        "meaning": "professor – “Dr. Smith is my favorite professor.”"
+    },
+    {
+        "word": "operation ",
+        "meaning": "operation – “The mining operation employs thousands of people.”"
+    },
+    {
+        "word": "financial ",
+        "meaning": "financial – “I keep my accounts at my financial institution.”"
+    },
+    {
+        "word": "crime ",
+        "meaning": "crime – “The police fight crime.”"
+    },
+    {
+        "word": "stage ",
+        "meaning": "stage – “A caterpillar is the larval stage of a butterfly.”"
+    },
+    {
+        "word": "ok ",
+        "meaning": "ok – “Would it be ok to eat out tonight?”"
+    },
+    {
+        "word": "compare ",
+        "meaning": "compare – “We should compare cars before we buy one.”"
+    },
+    {
+        "word": "authority ",
+        "meaning": "authority – “City authorities make the local laws.”"
+    },
+    {
+        "word": "miss ",
+        "meaning": "miss – “I miss you, when will I see you again?”"
+    },
+    {
+        "word": "design ",
+        "meaning": "design – “We need to design a new logo.”"
+    },
+    {
+        "word": "sort ",
+        "meaning": "sort – “Let’s sort these beads according to color.”"
+    },
+    {
+        "word": "one ",
+        "meaning": "one – “I only have one cat.”"
+    },
+    {
+        "word": "act ",
+        "meaning": "act – “I’ll act on your information today.”"
+    },
+    {
+        "word": "ten ",
+        "meaning": "ten – “The baby counted her ten toes.”"
+    },
+    {
+        "word": "knowledge ",
+        "meaning": "knowledge – “Do you have the knowledge to fix that?”"
+    },
+    {
+        "word": "gun ",
+        "meaning": "gun – “Gun ownership is a controversial topic.”"
+    },
+    {
+        "word": "station ",
+        "meaning": "station – “There is a train station close to my house.”"
+    },
+    {
+        "word": "blue ",
+        "meaning": "blue – “My favorite color is blue.”"
+    },
+    {
+        "word": "state ",
+        "meaning": "state – “After the accident I was in a state of shock.”"
+    },
+    {
+        "word": "strategy ",
+        "meaning": "strategy – “Our new corporate strategy is written here.”"
+    },
+    {
+        "word": "little ",
+        "meaning": "little – “I prefer little cars.”"
+    },
+    {
+        "word": "clearly ",
+        "meaning": "clearly – “The instructions were clearly written.”"
+    },
+    {
+        "word": "discuss ",
+        "meaning": "discuss – “We’ll discuss that at the meeting.”"
+    },
+    {
+        "word": "indeed ",
+        "meaning": "indeed – “Your mother does indeed have hearing loss.”"
+    },
+    {
+        "word": "force ",
+        "meaning": "force – “It takes a lot of force to open that door.”"
+    },
+    {
+        "word": "truth ",
+        "meaning": "truth – “Please tell me the truth.”"
+    },
+    {
+        "word": "song ",
+        "meaning": "song – “That’s a beautiful song.”"
+    },
+    {
+        "word": "example ",
+        "meaning": "example – “I need an example of that grammar point, please.”"
+    },
+    {
+        "word": "democratic ",
+        "meaning": "democratic – “Does Australia have a democratic government?”"
+    },
+    {
+        "word": "check ",
+        "meaning": "check – “Please check my work to be sure it’s correct.”"
+    },
+    {
+        "word": "environment ",
+        "meaning": "environment – “We live in a healthy environment.”"
+    },
+    {
+        "word": "leg ",
+        "meaning": "leg – “The boy broke his leg.”"
+    },
+    {
+        "word": "dark ",
+        "meaning": "dark – “Turn on the light, it’s dark in here.”"
+    },
+    {
+        "word": "public ",
+        "meaning": "public – “Masks must be worn in public places.”"
+    },
+    {
+        "word": "various",
+        "meaning": "various – “That rug comes in various shades of gray.”"
+    },
+    {
+        "word": "rather ",
+        "meaning": "rather – “Would you rather have a hamburger than a hot dog?”"
+    },
+    {
+        "word": "laugh ",
+        "meaning": "laugh – “That movie always makes me laugh.”"
+    },
+    {
+        "word": "guess ",
+        "meaning": "guess – “If you don’t know, just guess.”"
+    },
+    {
+        "word": "executive ",
+        "meaning": "executive – “The company’s executives are paid well.”"
+    },
+    {
+        "word": "set ",
+        "meaning": "set – “Set the glass on the table, please.”"
+    },
+    {
+        "word": "study ",
+        "meaning": "study – “He needs to study for the test.”"
+    },
+    {
+        "word": "prove ",
+        "meaning": "prove – “The employee proved his worth.”"
+    },
+    {
+        "word": "hang ",
+        "meaning": "hang – “Please hang your coat on the hook.”"
+    },
+    {
+        "word": "entire ",
+        "meaning": "entire – “He ate the entire meal in 10 minutes.”"
+    },
+    {
+        "word": "rock ",
+        "meaning": "rock – “There are decorative rocks in the garden.”"
+    },
+    {
+        "word": "design ",
+        "meaning": "design – “The windows don’t open by design.”"
+    },
+    {
+        "word": "enough ",
+        "meaning": "enough – “Have you had enough coffee?”"
+    },
+    {
+        "word": "forget ",
+        "meaning": "forget – “Don’t forget to stop at the store.”"
+    },
+    {
+        "word": "since ",
+        "meaning": "since – “She hasn’t eaten since yesterday.”"
+    },
+    {
+        "word": "claim ",
+        "meaning": "claim – “I made an insurance claim for my car accident.”"
+    },
+    {
+        "word": "note ",
+        "meaning": "note – “Leave me a note if you’re going to be late.”"
+    },
+    {
+        "word": "remove ",
+        "meaning": "remove – “Remove the cookies from the oven.”"
+    },
+    {
+        "word": "manager ",
+        "meaning": "manager – “The manager will look at your application.”"
+    },
+    {
+        "word": "help ",
+        "meaning": "help – “Could you help me move this table?”"
+    },
+    {
+        "word": "close ",
+        "meaning": "close – “Close the door, please.”"
+    },
+    {
+        "word": "sound ",
+        "meaning": "sound – “The dog did not make a sound.”"
+    },
+    {
+        "word": "enjoy ",
+        "meaning": "enjoy – “I enjoy soda.”"
+    },
+    {
+        "word": "network ",
+        "meaning": "network – “Band is the name of our internet network.”"
+    },
+    {
+        "word": "legal ",
+        "meaning": "legal – “The legal documents need to be signed.”"
+    },
+    {
+        "word": "religious ",
+        "meaning": "religious – “She is very religious, she attends church weekly.”"
+    },
+    {
+        "word": "cold ",
+        "meaning": "cold – “My feet are cold.”"
+    },
+    {
+        "word": "form ",
+        "meaning": "form – “Please fill out this application form.”"
+    },
+    {
+        "word": "final ",
+        "meaning": "final – “The divorce was final last month.”"
+    },
+    {
+        "word": "main ",
+        "meaning": "main – “The main problem is a lack of money.”"
+    },
+    {
+        "word": "science ",
+        "meaning": "science – “He studies health science at the university.”"
+    },
+    {
+        "word": "green ",
+        "meaning": "green – “The grass is green.”"
+    },
+    {
+        "word": "memory ",
+        "meaning": "memory – “He has a good memory.”"
+    },
+    {
+        "word": "card ",
+        "meaning": "card – “They sent me a card for my birthday.”"
+    },
+    {
+        "word": "above ",
+        "meaning": "above – “Look on the shelf above the sink.”"
+    },
+    {
+        "word": "seat ",
+        "meaning": "seat – “That’s a comfortable seat.”"
+    },
+    {
+        "word": "cell ",
+        "meaning": "cell – “Your body is made of millions of cells.”"
+    },
+    {
+        "word": "establish ",
+        "meaning": "establish – “They established their business in 1942.”"
+    },
+    {
+        "word": "nice ",
+        "meaning": "nice – “That’s a very nice car.”\n"
+    },
+    {
+        "word": "trial ",
+        "meaning": "trial – “They are employing her on a trial basis.”"
+    },
+    {
+        "word": "expert ",
+        "meaning": "expert – “Matt is an IT expert.”"
+    },
+    {
+        "word": "that ",
+        "meaning": "that – “Did you see that movie?”"
+    },
+    {
+        "word": "spring ",
+        "meaning": "spring – “Spring is the most beautiful season.”"
+    },
+    {
+        "word": "firm – ",
+        "meaning": "firm – “Her ‘no” was very firm, she won’t change her mind.”"
+    },
+    {
+        "word": "Democrat ",
+        "meaning": "Democrat – “The Democrats control the Senate.”"
+    },
+    {
+        "word": "radio ",
+        "meaning": "radio – “I listen to the radio in the car.”"
+    },
+    {
+        "word": "visit ",
+        "meaning": "visit – “We visited the museum today.”"
+    },
+    {
+        "word": "management ",
+        "meaning": "management – “That store has good management.”"
+    },
+    {
+        "word": "care ",
+        "meaning": "care – “She cares for her mother at home.”"
+    },
+    {
+        "word": "avoid ",
+        "meaning": "avoid – “You should avoid poison ivy.”"
+    },
+    {
+        "word": "imagine ",
+        "meaning": "imagine – “Can you imagine if pigs could fly?”"
+    },
+    {
+        "word": "tonight ",
+        "meaning": "tonight – “Would you like to go out tonight?”"
+    },
+    {
+        "word": "huge ",
+        "meaning": "huge – “That truck is huge!”"
+    },
+    {
+        "word": "ball ",
+        "meaning": "ball – “He threw the ball to the dog.”"
+    },
+    {
+        "word": "no ",
+        "meaning": "no – “I said ‘no,’ please don’t ask again.”"
+    },
+    {
+        "word": "close ",
+        "meaning": "close – “Close the window, please.”"
+    },
+    {
+        "word": "finish ",
+        "meaning": "finish – “Did you finish your homework?”"
+    },
+    {
+        "word": "yourself ",
+        "meaning": "yourself – “You gave yourself a haircut?”"
+    },
+    {
+        "word": "talk ",
+        "meaning": "talk – “He talks a lot.”"
+    },
+    {
+        "word": "theory ",
+        "meaning": "theory – “In theory, that’s a good plan.”"
+    },
+    {
+        "word": "impact ",
+        "meaning": "impact – “The drought had a big impact on the crops.”"
+    },
+    {
+        "word": "respond ",
+        "meaning": "respond – “He hasn’t responded to my text yet.”"
+    },
+    {
+        "word": "statement ",
+        "meaning": "statement – “The police chief gave a statement to the media.”"
+    },
+    {
+        "word": "maintain ",
+        "meaning": "maintain – “Exercise helps you maintain a healthy weight.”"
+    },
+    {
+        "word": "charge ",
+        "meaning": "charge – “I need to charge my phone.”"
+    },
+    {
+        "word": "popular ",
+        "meaning": "popular – “That’s a popular restaurant.”"
+    },
+    {
+        "word": "traditional",
+        "meaning": "traditional – “They serve traditional Italian food there.”"
+    },
+    {
+        "word": "onto ",
+        "meaning": "onto – “Jump onto the boat and we’ll go fishing.”"
+    },
+    {
+        "word": "reveal ",
+        "meaning": "reveal – “Washing off the dirt revealed the boy’s skinned knee.”"
+    },
+    {
+        "word": "direction ",
+        "meaning": "direction – “What direction is the city from here?”"
+    },
+    {
+        "word": "weapon ",
+        "meaning": "weapon – “No weapons are allowed in government buildings.”"
+    },
+    {
+        "word": "employee ",
+        "meaning": "employee – “That store only has three employees.”"
+    },
+    {
+        "word": "cultural ",
+        "meaning": "cultural – “There is cultural significance to those old ruins.”"
+    },
+    {
+        "word": "contain ",
+        "meaning": "contain – “The carton contains a dozen egges.”"
+    },
+    {
+        "word": "peace",
+        "meaning": "peace – “World leaders gathered for peace talks.”"
+    },
+    {
+        "word": "head ",
+        "meaning": "head – “My head hurts.”"
+    },
+    {
+        "word": "control ",
+        "meaning": "control – “Keep control of the car.”"
+    },
+    {
+        "word": "base ",
+        "meaning": "base – “The glass has a heavy base so it won’t fall over.”"
+    },
+    {
+        "word": "pain ",
+        "meaning": "pain – “I have chest pain.”"
+    },
+    {
+        "word": "apply ",
+        "meaning": "apply – “Maria applied for the job.”"
+    },
+    {
+        "word": "play ",
+        "meaning": "play – “The children play at the park.”"
+    },
+    {
+        "word": "measure ",
+        "meaning": "measure – “Measure twice, cut once.”"
+    },
+    {
+        "word": "wide ",
+        "meaning": "wide – “The doorway was very wide.”\n"
+    },
+    {
+        "word": "shake ",
+        "meaning": "shake – “Don’t shake the can of soda.”"
+    },
+    {
+        "word": "fly ",
+        "meaning": "fly – “We can fly to France next year.”"
+    },
+    {
+        "word": "interview ",
+        "meaning": "interview – “My job interview went well.”"
+    },
+    {
+        "word": "manage ",
+        "meaning": "manage – “Did you manage to find the keys?”\n"
+    },
+    {
+        "word": "chair ",
+        "meaning": "chair – “The table has six matching chairs.”"
+    },
+    {
+        "word": "fish ",
+        "meaning": "fish – “I don’t enjoy eating fish.”"
+    },
+    {
+        "word": "particular ",
+        "meaning": "particular – “That particular style looks good on you.”"
+    },
+    {
+        "word": "camera ",
+        "meaning": "camera – “I use the camera on my phone.”"
+    },
+    {
+        "word": "structure ",
+        "meaning": "structure – “The building’s structure is solid.”"
+    },
+    {
+        "word": "politics ",
+        "meaning": "politics – “Mitch is very active in politics.”"
+    },
+    {
+        "word": "perform ",
+        "meaning": "perform – “The singer will perform tonight.”"
+    },
+    {
+        "word": "bit ",
+        "meaning": "bit – “It rained a little bit last night.”"
+    },
+    {
+        "word": "weight",
+        "meaning": "weight – “Keep track of your pet’s weight.”"
+    },
+    {
+        "word": "suddenly ",
+        "meaning": "suddenly – “The storm came up suddenly.”"
+    },
+    {
+        "word": "discover ",
+        "meaning": "discover – “You’ll discover treasures at that thrift store.”"
+    },
+    {
+        "word": "candidate ",
+        "meaning": "candidate – “There are ten candidates for the position.”"
+    },
+    {
+        "word": "top ",
+        "meaning": "top – “The flag flies on the top of that building.”"
+    },
+    {
+        "word": "production ",
+        "meaning": "production – “Factory production has improved over the summer.”"
+    },
+    {
+        "word": "treat ",
+        "meaning": "treat – “Give yourself a treat for a job well done.”"
+    },
+    {
+        "word": "trip ",
+        "meaning": "trip – “We are taking a trip to Florida in January.”"
+    },
+    {
+        "word": "evening ",
+        "meaning": "evening – “I’m staying home this evening.”"
+    },
+    {
+        "word": "affect ",
+        "meaning": "affect – “My bank account will affect how much I can buy.”"
+    },
+    {
+        "word": "inside",
+        "meaning": "inside – “The cat stays inside.”"
+    },
+    {
+        "word": "conference ",
+        "meaning": "conference – “There will be expert presenters at the conference.”"
+    },
+    {
+        "word": "unit ",
+        "meaning": "unit – “A foot is a unit of measure.”"
+    },
+    {
+        "word": "best ",
+        "meaning": "best – “Those are the best glasses to buy.”"
+    },
+    {
+        "word": "style ",
+        "meaning": "style – “My dress is out of style.”"
+    },
+    {
+        "word": "adult ",
+        "meaning": "adult – “Adults pay full price, but children are free.”"
+    },
+    {
+        "word": "worry ",
+        "meaning": "worry – “Don’t worry about tomorrow.”"
+    },
+    {
+        "word": "range ",
+        "meaning": "range – My doctor offered me a range of options."
+    },
+    {
+        "word": "mention ",
+        "meaning": "mention – “Can you mention me in your story?”"
+    },
+    {
+        "word": "rather ",
+        "meaning": "rather – “Rather than focusing on the bad things, let’s be grateful for the good things.”"
+    },
+    {
+        "word": "far ",
+        "meaning": "far – “I don’t want to move far from my family.”"
+    },
+    {
+        "word": "deep ",
+        "meaning": "deep – “That poem about life is deep.”"
+    },
+    {
+        "word": "deep ",
+        "meaning": "deep – “That poem about life is deep.”"
+    },
+    {
+        "word": "edge ",
+        "meaning": "edge – “Please do not stand so close to the edge of the cliff.”"
+    },
+    {
+        "word": "individual ",
+        "meaning": "individual – “These potato chips are in an individual serving size package.”"
+    },
+    {
+        "word": "specific ",
+        "meaning": "specific – “Could you be more specific?”"
+    },
+    {
+        "word": "writer ",
+        "meaning": "writer – “You are a good writer.”"
+    },
+    {
+        "word": "trouble ",
+        "meaning": "trouble – “Stay out of trouble.”"
+    },
+    {
+        "word": "necessary ",
+        "meaning": "necessary – “It is necessary to sleep.”"
+    },
+    {
+        "word": "throughout ",
+        "meaning": "throughout – “Throughout my life I have always enjoyed reading.”"
+    },
+    {
+        "word": "challenge ",
+        "meaning": "challenge – “I challenge you to do better.”"
+    },
+    {
+        "word": "fear ",
+        "meaning": "fear – “Do you have any fears?”"
+    },
+    {
+        "word": "shoulder ",
+        "meaning": "shoulder – “You do not have to shoulder all the work on your own.”"
+    },
+    {
+        "word": "institution ",
+        "meaning": "institution – “Have you attended any institution of higher learning?”"
+    },
+    {
+        "word": "middle ",
+        "meaning": "middle – “I am a middle child with one older brother and one younger sister.”"
+    },
+    {
+        "word": "sea ",
+        "meaning": "sea – “I want to sail the seven seas.”"
+    },
+    {
+        "word": "dream ",
+        "meaning": "dream – “I have a dream.”"
+    },
+    {
+        "word": "bar",
+        "meaning": "bar – “A bar is a place where alcohol is served.”"
+    },
+    {
+        "word": "beautiful ",
+        "meaning": "beautiful – “You are beautiful.”"
+    },
+    {
+        "word": "property ",
+        "meaning": "property – “Do you own property, like a house?”"
+    },
+    {
+        "word": "instead ",
+        "meaning": "instead – “Instead of eating cake I will have fruit.”"
+    },
+    {
+        "word": "improve ",
+        "meaning": "improve – “I am always looking for ways to improve.”"
+    },
+    {
+        "word": "stuff ",
+        "meaning": "stuff – “When I moved, I realized I have a lot of stuff!”"
+    },
+    {
+        "word": "claim ",
+        "meaning": "claim – “I claim to be a fast reader, but actually I am average.”"
+    }
+]

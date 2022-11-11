@@ -128,20 +128,22 @@ data = []
         for li in examples.find_all('li'):
             list[mylist[i]].append(example_list.append(li))"""
 
-for i in range(1):
+for i in range(2):
 
+    tempData = []
     result = requests.get(url+mylist[i]+"/", headers = headers)
     doc = BeautifulSoup(result.text,"html.parser")
 
     for tag in doc.select('.linktitle a'):
         result = requests.get(tag['href'])
         doc = BeautifulSoup(result.text,"html.parser")
-        data.append({
+        tempData.append({
             'idiom': doc.h1.get_text(strip=True),
             'meaning': doc.select_one('h1 ~ h2 + p').get_text(strip=True),
             'examples':[e.get_text(strip=True) for e in doc.select('main ul li')]
         })
 
+    data.append({mylist[i]:tempData})
 
 
 with open('idioms.json', 'w', encoding='utf-8') as f:
