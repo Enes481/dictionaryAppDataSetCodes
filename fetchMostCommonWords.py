@@ -10,6 +10,8 @@ url = "https://gonaturalenglish.com/1000-most-common-words-in-the-english-langua
 list = []
 
 
+
+
 result = requests.get(url, headers=headers)
 doc = BeautifulSoup(result.text, "html.parser")
 
